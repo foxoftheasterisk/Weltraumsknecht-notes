@@ -58,11 +58,11 @@ Probably would then lean into the metroidvania, have parts of early areas you ca
 However it would probably be much simpler to do the classic roguelike "floors".
 
 ... it could be even more metroidvania if areas don't have a consistent arrangement, so you actually have to explore to find them. But that also is a bit counter to the HP management play, so, I'm not sure there.
-... well, is it though? Sure, it can lead you to having to use up some of the earlier area when you might not need it, but that's already going to be a thing. And if you actually maybe have to explore the early areas, that means your low-HP exploration isn't going to be only to recover health.
+... well, is it though? Sure, it can lead you to having to use up some of the earlier area when you might not need it, but that's already going to be a thing. And if you actually maybe *have* to explore the early areas, that means your low-HP exploration isn't going to be *only* to recover health, it also might progress you.
 
 ... although it could also mean that runs get easier or harder based on where the areas spawn. Which, that variability is somewhat inevitable, but also keeping it relatively consistent is somewhat desirable.
 
-Teleporters for sure, obvs
+Teleporters for sure, obvs.
 
 Now having no consistent layout could make area identities less distinct, but it's probably fine.
 
@@ -71,33 +71,36 @@ Speaking of, yeah, distinct area identities is a major goal here. RL2 does a gre
 ... It would be cool and enhance the metroidvania feel if we didn't always have the same areas, and/or didn't always take them in the same order. BUT that would also mean we'd have to have multiple areas at the same difficulty level? Which seems difficult while also giving them distinct identities.
 
 Also would be cool to have "complete half this area, then do this other area, then return"... but to do that we'd need—
-...I was going to say we'd need mid-area mobility drops, but it could just be, like, some kind of key. Mobility increasers are the biggest keys we want to do, but we could just do, like, actual keys, for some things. (Probably not too many though.)
+...I was going to say we'd need mid-area mobility drops, but it could just be, like, some kind of key. Mobility increasers are the *biggest* keys we want to do, but we could just do, like, actual keys, for some things. (Probably not too many though.)
 
-There's also the concept of going through a (small part of) a later area to reach the next area, that could be fun. (Not sure if this involves nerfed versions of the enemies or not—might depend on how much later an area it is.)
+There's also the concept of going through a (small part of) a later area to reach the next area, that could be fun. (Not sure if this involves nerfed versions of the enemies or not—might depend on how *much* later an area it is.)
 
 And then there's the metroidvania standby of doing something that ends up getting you stuck in a new area, until you find another way out / a new upgrade that lets you get back the way you came. We can play with that. (But not too much.)
 
 ... But in trying to make it metroidvania, make sure not to make it end up too long or frustrating. This is a roguelike with metroidvania theming, not the other way around. And a roguelike needs to be short.
 
 Six areas is probably about the maximum. Especially since we have to develop each of them.
+Four might be more achievable.
+
+Since this isn't started outright: Rogue Legacy 2 has a concept where the same rooms can spawn in different areas, but with some elements determined by the area. For example some rooms have "round hazards" which are swinging chains in the castle, but growing ice chunks in the cold area. I thought this concept seems useful.
 
 Areas:
 Areas (and the setting generally) lean towards the Metroid side of Metroidvania.
-	•  Zoo: starting area
-		○ Trap: shackles (temporarily tethers player, can break by dashing; does no damage)
-			§ Not actually shackles but the forcefield equivalent
-		○ Some rooms that are like mini habitats of different themes
-		○ More horizontally open rooms?
-	• Maintenance/engineering: more cramped and twisty
-		○ Bursting pipes—but as trap, wall shooter, or both?
-		○ ooh, wall shooters that are like, electrical/laser mechanisms
-			§  why aren't they contained? shhh don't worry about it
-	• Habitat?: more open (esp vertically) and rounded/organic shapes
-		○ Seems weird for there to be zoo and habitat, but
-			§ Unless this habitat is for the aliens that run the place?
-	• Cold storage?
-	• Bridge/operational areas?
-	• The promenade
-	• Docking bays?
-	• Tower climb — I don't know how to flavor it, but the sun tower is cool and I want to steal its glory
+* Zoo: starting area
+	* Trap: shackles (temporarily tethers player, can break by dashing; does no damage)
+		* Not literal shackles but the forcefield equivalent
+	* Some rooms that are like mini habitats of different themes (which could be the other areas?)
+	* More horizontally open rooms?
+* Maintenance/engineering: more cramped and twisty
+	* Bursting pipes—but as trap, wall shooter, or both?
+	* ooh, wall shooters that are like, electrical/laser mechanisms
+		* why aren't they contained? shhh don't worry about it.  ... maybe because the station is having An Emergency
+* Habitat?: more open (esp vertically) and rounded/organic shapes
+	* Seems weird for there to be zoo *and* habitat, but
+		* Unless this habitat is for the aliens that run the place?
+* Cold storage?
+* Bridge/operational areas?
+* The promenade (ds9)
+* Docking bays?
+* Tower climb — I don't know how to flavor it, but the sun tower is cool and I want to steal its glory
 
