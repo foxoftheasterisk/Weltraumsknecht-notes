@@ -1,10 +1,10 @@
 (Haven't yet copied down all information in the original notes re: locations)
 
-Since I was thinking about a Metroid Fusion kind of aesthetic... maybe we should not have pass-through platforms?
+Since I was thinking about a Metroid Fusion kind of aesthetic... maybe we should *not* have pass-through platforms?
 
-I just kind of assumed we should (bc my main inspiration is RL2, which does have them) but in addition to giving Metroid Fusion vibes, not having them means simpler controls in a way (don't have to have a drop-through control) and more predictable projectile/enemy behavior
+I just kind of assumed we should (bc my main inspiration is RL2, which *does* have them) but in addition to giving Metroid Fusion vibes, not having them means simpler controls in a way (don't have to have a drop-through control) and more predictable projectile/enemy behavior
 
-(I think Fusion doesn't have any pass-through platforms anyway? Except I think the save room has one, but that hardly counts)
+(I *think* Fusion doesn't have any pass-through platforms anyway? Except I think the save room has one, but that hardly counts)
 (For that matter, does Castlevania have pass-throughs? I can't remember.)
 
 It does mean we'd likely want larger rooms, to fit the structures needed to allow ascent without pass-throughs.
@@ -22,7 +22,7 @@ Altho it's very nice in RL2, I think no boss door heals. Manage your own health.
 Actually, if boss heart containers do full heal, that introduces a temptation to use the boss to heal.
 Not sure if that's a desired result or not.
 Having some challenge that full heals at the end seems nice, but I'm not sure it should be bosses.
-... actually, yes, that is good for bosses. you beat the boss, big climax, and now you're fresh for the next area. (Which you're otherwise unprepared for because that's how roguelikes work, ideally.)
+... actually, *yes*, that *is* good for bosses. you beat the boss, big climax, and now you're fresh for the next area. (Which you're otherwise unprepared for because that's how roguelikes work, ideally.)
 Using bosses to heal is possible if you're a badass, but probably not recommended.
 
 "Heirloom" challenges—i.e. a full heal followed by a challenge—seem appropriate. May or may not give an ability of some sort (or just have weapon/shop at the end, like sword portals?)
