@@ -28,40 +28,40 @@ Mod effects:
 * Cooldown reduction
 * Warmup reduction?
 	* There might be weapons this doesn't matter for, but that's probably fine?
-	• Projectile size?
-	• Life steal (heal PART of a heart on kill or crit (or crit kill))
-		○ Will need very careful balancing.
-	• Random crits (can turn regular hits into crits. No effect on skill crits, probably.)
-	• Easier skill crits seems like it would be useful, but I don't think there's any way to make that actually work as a consistent effect. Just go with random crits or synergies.
-		○ Though there are some weapons that it could work for...
-	• Projectile speed? Not sure how to implement for melee weapons, since they're instant anyway. (Unless this is bundled with warmup reduction?)
-	• Kill decreases cooldown (by 50%? 100%?)
-	• Crit decreases cooldown (by 25%? 50%?)
-	• Kills/crits/hits decrease cooldown of OTHER weapons
-	• Stock cooldown (After completing cooldown, runs again to stock a second usage (or potentially more than 2))
-	• Applies debuffs
-		○ Slow
-		○ DOT
-		○ Freeze
-		○ Vulnerable (all hits are crits)
-	• Increased knockback
-	• Applies buffs? (Probably on hit, not on use)
-		○ Damage resist/immunity
-		○ Debuff resist?
-		○ Move speed
-		○ Charge? (Makes next attack auto crit)
-		○ Invisibility? (Enemies don't attack)
-	• Shield—blocks a hit, recharges with this-weapon kills. (Probably quite a few, for balance.)
+* Projectile size?
+* Life steal (heal PART of a heart on kill or crit (or crit kill))
+	* Will need *very* careful balancing.
+* Random crits (can turn regular hits into crits. No effect on skill crits, probably.)
+* Easier skill crits seems like it would be *useful*, but I don't think there's any way to make that actually *work* as a consistent effect. Just go with random crits or synergies.
+	* Though there are *some* weapons that it could work for...
+* Projectile speed? Not sure how to implement for melee weapons, since they're instant anyway. (Unless this is bundled with warmup reduction?)
+* Kill decreases cooldown (by 50%? 100%?)
+* Crit decreases cooldown (by 25%? 50%?)
+* Kills/crits/hits decrease cooldown of OTHER weapons
+* Stock cooldown (After completing cooldown, runs again to stock a second usage (or potentially more than 2))
+* Applies debuffs
+	* Slow
+	* DOT
+	* Freeze
+	* Vulnerable (all hits are crits)
+* Increased knockback
+* Applies buffs? (Probably on hit, not on use)
+	* Damage resist/immunity
+	* Debuff resist?
+	* Move speed
+	* Charge? (Makes next attack auto crit)
+	* Invisibility? (Enemies don't attack)
+* Shield—blocks a hit, recharges with this-weapon kills. (Probably quite a few, for balance.)
 
-Passives:
-	• Dash length?
-	• Jump height?
-	• Defensives: Max health, healing, armor, mercy invincibility. Maybe not all of these. Revives?
-		○ I don't think max health works well in this context.
-	• Rarer weapon drops
-	• More currency drops
-		○ Possibly currency+Weapon rarities+Health drops as "luck"
-	• Move speed? (Not always positive, but quite positive.)
-	• Rerolls?
-	• Store an extra, unused weapon? (Can switch out probably while paused, but maybe by Use button?)
-		○ Seems really powerful. Also gets weird with passives—having them apply would be really OP, having them not apply means weirdness with having them toggle.
+these could be passives, if those exist:
+* Dash length?
+* Jump height?
+* Defensives: Max health, healing, armor, mercy invincibility. Maybe not all of these. Revives?
+	* I don't think max health works well in this context.
+* Rarer weapon drops
+* More currency drops
+	* Possibly currency+Weapon rarities+Health drops as "luck"
+* Move speed? (Not always positive, but *quite* positive.)
+* Rerolls?
+* Store an extra, unused weapon? (Can switch out probably while paused, but maybe by Use button?)
+	* Seems *really* powerful. Also gets weird with passives—having them apply would be really OP, having them *not* apply means weirdness with having them toggle.
