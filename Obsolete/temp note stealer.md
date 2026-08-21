@@ -1,14 +1,5 @@
 (This is a way for me to check that all notes in the original file are represented in new files)
 
-Weltraumsknecht 
-aka "rogue vampyres"
-
-So vampire survivors' system of evolving weapons is really cool, but VS is a little bit ruined by power creep.
-So the idea here is a more pure roguelike with that element to it.
-
-The ONLY unlocks are that you can start with any common weapon that you've obtained. (Or... maybe you can start with any from the beginning? That loses an avenue of discovery, though.)
-And knowledge. There's actually a compendium of knowledge. Like Barony's, except probably with more lore.
-
 Controls like Rogue Legacy 2 (bc i love it) but without spin kicks.
 (Or maybe yes spin kicks? That does a lot to keep it aerial & agile)
 (Could always have spin kick as a purely movement option)
