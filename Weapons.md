@@ -217,104 +217,105 @@ Specific weapon ideas (checkbox indicate implemented):
 - [ ] Tower shield: slow movement, large hurtbox, blocks all projectiles, crits after blocking projectile. Can hold for several seconds. Long time cooldown.
 	* Upgrade to energy shield, less or no movement penalty and curves around head/feet some.
 	* Seems very similar to vacuum and umbrella...
-	• Slime gun: fires in irregular arc, immobilize hit enemies. Crit? Hits cooldown.
-		○ Maybe fires a spread, and if multiple hit?
-		○ Or a wide projectile, and the center crits?
-		○ May be related to net launcher
-	• ?: fires in an upward spray. Hit based cooldown. Crit?
-		○ Fast, I think
-		○ (RL2's lightning storm spell is what I'm basing this on)
-	• Bowling ball: rolls forward; in air, drops rapidly and crits. 
-		○ a stupid idea but it might work out
-		○ Probably also drops through platforms
-		○ a bowling ball is clearly the wrong flavor though
-			§ Snowball
-				□ In which case it gets bigger and crits from size, instead?
-			§ Circle saw or something also works
-	• Musket: fast shot, long cooldown, dramatic knockback. Crit...?
-		○ Maybe it can be a ricochet one? Don't really like that...
-		○ Crit close is boring, but it works.
-			§ Crit far is also possible.
-		○ Maybe pierces one enemy & crits second?
-		○ Realm of 10 seconds cooldown
-		○ Could even always crit, if it's that long a cooldown.
-			§ Not sure I want that precedent, though...
-	• Bomb/flak dropper?: bounce and create projectile, which falls (and bursts?). Maybe can stock several? Or it's a combo (with increasing cooldown, probably)—anyway, crit probably is from successive projectiles. Short hit cooldown.
-		○ Wait, this is basically the same as ninja scroll?
-			§ Better crit idea though
-			§ Maybe one can evolve from the other?
-		○ Actually not sure about the stock (now that i remembered this isn't metroid bombs). Prefer the idea of it exploding & critting on hitting the floor, instead.
-			§ Not that we have to have successive crits if we have a stock, but y'know. 
-		○ On ground: Same, I think? 
-	• Bomb (metroid style): Place a projectile, which holds still until exploding in a small round pattern. Explosions also bounce player? Stock of 3 probably. Crit from short succession?
-		○ Seems hard to use.
-		○ Alternate crit: if an enemy directly touches the bomb (may also trigger it early)
-		○ Destroys projectiles? (Would make it more useful)
-			§ Probably does not bounce player in this case, as that would make it bad for protection.
-		○ Evo: EMP/lightning ball. Balls chain together (doing normal damage) and pulse instead of exploding when each would explode.
-			§ (So if there's two bombs, when the first would explode, they both pulse instead, then when the second would explode both do.)
-			§ Also pulse when ball contacted
-			§ Unite with lightning rod?
-			§ Chain may also destroy projectiles?
-			§ (This sounds really cool)
-	• Needler: spray of needles, hold to keep spraying and crit? First shot is (basically) straight forward, later shots kick up. Needles disappear after moderate-short distance.
-		○ More needles sprayed means longer cooldown
-			§ Or stock? I kinda like stock. One hit per needle?
-		○ May do less damage than typical weapons, not sure.
-			§ Like probably 6 instead of 10
-	• Organ gun (aka ribaldequin): 90° spread forward, edge ones crit. In air, fires down instead (with bounce.) Long time cooldown.
-		○ Is that too much different in air...? Could be diagonal down instead. Or even stay forward.
-		○ This is probably too similar to blunderbuss (esp. if diag down), but I like this one better. Could always be an evo (one or the other)
-			§ Blunderbuss + musket = organ gun, probably
-				□ Which means longer range, plus more spread (and crits start where they always did)
-			§ Idk actually, they're similar but have substantially different use cases...
-	• Homing weapon
-		○ Obviously alien
-		○ Missile? Or more like magic Missile
-			§ Or something alive?
-				□ Initial direction? Forward is expected but up or diagonal are also reasonable.
-					® Or random? (Like crow staff)
-	• Blob gun: shoots diagonally upward until it hits ceiling, then makes drippy blob
-		○ May be an upgrade of a single shot version (as in, hits the ceiling then falls)
-		○ Falling part crits, I expect.
-		○ If it hits a wall instead, what happens?
-	• Net launcher: shoots a small projectile that opens (gets larger) and crits after a distance, upward angle with gravity
-	• Firework/Rocket: time based, shoots upward (slight angle? Like 80°) and explodes into shrapnel (on contact or time probably), direct hits crit?
-	• Big Slow Orb Gun. Probably goes through walls too, idk.
-	• Damage Field Maker: shoots a projectile (with whatever pattern, idk) that creates a DOT field where it hits. May do so on enemies, or only on walls.
-	• Whip: pretty big hurtbox with a small critting sweet spot, thinking at an upward angle (30° or so)
-	• Earth wall: blocks large projectiles. Crit while appearing? Usable only on ground. (Platforms?) Solid.
-	• Stone fist: Chonky melee strike. Destroys medium projectiles. Crits on ground. Air version is less chonky.
-	• Cannon: set cannon, then can walk away while fuse counts down. (Half to one second—not too long.) Cannonball fires up at a low angle (20°?), no gravity, destroys medium projectiles, decent range. Goes through walls? Crit... muzzle flare? Moderate time cooldown (2-4s)
-		○ Cannon itself does no damage
-		○ In air...? (Could be unusable, could hang... falling would be weird.)
-		○ Could also crit if it's already gone through something (wall, projectile, enemy)
-		○ Above average knockback
-	• Pistol: shoot forward, then toss gun for crit? Or it bounces as recoil? Maybe not straight forward, I feel like we have a lot of those.
-	• Phaser: shoots a sustained line, crits after time? I feel like a slight downward angle (5-10°).
-	• Seed: lightly toss forward; when hits ground, slowly (1-2s) grows into thorny bush, critting if grows enough.
-	• Volatile: tosses out 1 to 3 (undecided, not random) hovering bombs in different directions. When struck by another weapon, they explode and crit.
-		○ (Similar to RL2's lute.)
-		○ Evo can block projectiles?
-	• Giant Freaking Laser Beam: yeah
-		○ Probably destroys projectiles, too.
-		○ (RL2's gravity beam)
-	• Partisan: whirls around player, destroying small projectiles. Expand and crit after hitting projectile?
-		○ (RL2's Deflect... sort of)
-		○ Keep spinning (and critting) as long as projectiles keep hitting?
-	• ?: grants speed boost(?) and leaves a continuous trail of projectiles while moving. Explode after a bit?
-		○ Honestly this is just because of the glitch Daggers were having
-	• Cross laser?: moderate warmup, suspends player,  big laser X with player in center, after a moment pulses larger & crits. 
-		○ Dash cancelable ofc.
-		○ "Larger" = longer, wider, both?
-	• ?: ranged weapon with a projectile that splits on button press. Crit: center (original trajectory) after split?
-		○ Feels cooler if it's an arcing projectile.
-		○ Maybe like a shell that opens up (and drops half-shells)?
-		○ ... What if the center stops having gravity (or at least has a significantly different arc)? Seems interesting
-			§ Actually if it starts going straight that might be too easy to hit with? We'll see
-		○ Ok now I'm imagining like a laser drone that when triggered, STOPS, fires a laser, then splits in halves that fly backwards
-			§ Maybe not laser? Anyway sounds cool
-	• Regenerative shield: some variant of large-but-close pattern, blocks projectiles (up to med? large?). Blocked projectiles count as hits for cooldowns. (Has hit cooldown.)
+- [ ] Slime gun: fires in irregular arc, immobilize hit enemies. Crit? Hits cooldown.
+	* Maybe fires a spread, and if multiple hit?
+	* Or a wide projectile, and the center crits?
+	* May be related to net launcher
+- [ ] ?: fires in an upward spray. Hit based cooldown. Crit?
+	* Fast, I think
+	* (RL2's lightning storm spell is what I'm basing this on)
+- [ ] Bowling ball: rolls forward; in air, drops rapidly and crits. 
+	* a stupid idea but it might work out
+	* Probably also drops through platforms (if those exist)
+	* a bowling ball is clearly the wrong flavor though
+		* Snowball
+			* In which case it gets bigger and crits from size, instead?
+		* Circle saw or something also works
+- [ ] Musket: fast shot, long cooldown, dramatic knockback. Crit...?
+	* Maybe it can be a ricochet one? Don't really like that...
+	* Crit close is boring, but it works.
+		* Crit far is also possible.
+	* Maybe pierces one enemy & crits second?
+	* Realm of 10 seconds cooldown
+		* Maybe a bit less
+		* Could even always crit, if it's that long a cooldown.
+			* Not sure I want that precedent, though...
+- [ ] Bomb/flak dropper?: bounce and create projectile, which falls (and bursts?). Maybe can stock several? Or it's a combo (with increasing cooldown, probably)—anyway, crit probably is from successive projectiles. Short hit cooldown.
+	* Wait, this is basically the same as ninja scroll?
+		* Better crit idea though
+		* Maybe one can evolve from the other?
+	* Actually not sure about the stock (now that i remembered this *isn't* how metroid bombs work). Prefer the idea of it exploding & critting on hitting the floor, instead.
+		* Not that we *have* to have successive crits if we have a stock, but y'know. 
+	* On ground: Same, I think? 
+- [ ] Bomb (metroid style): Place a projectile, which holds still until exploding in a small round pattern. Explosions also bounce player? Stock of 3 probably. Crit from short succession?
+	* Seems hard to use.
+	* Alternate crit: if an enemy directly touches the bomb (may also trigger it early)
+	* Destroys projectiles? (Would make it more useful)
+		* Probably does not bounce player in this case, as that would make it bad for protection.
+	- [ ] Evo: EMP/lightning ball. Balls chain together (doing normal damage) and pulse instead of exploding when each would explode.
+		* (So if there's two bombs, when the first would explode, they both pulse instead, then when the second would explode both do.)
+		* Also pulse when ball contacted
+		* Unite with lightning rod?
+		* Chain may also destroy projectiles?
+		* (This sounds really cool)
+- [ ] Needler: spray of needles, hold to keep spraying and crit? First shot is (basically) straight forward, later shots kick up. Needles disappear after moderate-short distance.
+	* More needles sprayed means longer cooldown
+		* Or stock? I kinda like stock. One hit per needle?
+	* May do less damage than typical weapons, not sure.
+		* Like probably 6 instead of 10
+- [ ] Organ gun (aka ribaldequin): 90° spread forward, edge ones crit. In air, fires down instead (with bounce.) Long time cooldown.
+	* Is that too much different in air...? Could be diagonal down instead. Or even stay forward.
+	* This is probably too similar to blunderbuss (esp. if diag down), but I like this one better. Could always be an evo (one or the other)
+		* Blunderbuss + musket = organ gun, probably
+			* Which means longer range, plus more spread (and crits start where they always did)
+		* Idk actually, they're similar but have substantially different use cases...
+- [ ] Homing weapon
+	* Obviously alien
+	* Missile? Or more like *magic* Missile
+		* Or something alive?
+			* Initial direction? Forward is obvious but up or diagonal are also reasonable.
+				* Or random? (Like crow staff)
+- [ ] Blob gun: shoots diagonally upward until it hits ceiling, then makes drippy blob
+	- May be an upgrade of a single shot version (as in, hits the ceiling then falls)
+	* Falling part crits, I expect.
+	* If it hits a wall instead, what happens? Nothing?
+- [ ] Net launcher: shoots a small projectile that opens (gets larger) and crits after a distance, upward angle with gravity
+- [ ] Firework/Rocket: time based, shoots upward (slight angle? Like 80°) and explodes into shrapnel (on contact or time probably), direct hits crit?
+- [ ] Big Slow Orb Gun. Probably goes through walls too, idk.
+- [ ] Damage Field Maker: shoots a projectile (with whatever pattern, idk) that creates a DOT field where it hits. May do so on enemies, or only on walls.
+- [ ] Whip: pretty big hurtbox with a small critting sweet spot, thinking at an upward angle (30° or so)
+- [ ] Earth wall: blocks large projectiles. Crit while appearing? Usable only on ground. (Platforms?) Solid.
+- [ ] Stone fist: Chonky melee strike. Destroys medium projectiles. Crits on ground. Air version is less chonky.
+- [ ] Cannon: set cannon, then can walk away while fuse counts down. (Half to one second—not too long.) Cannonball fires up at a low angle (20°?), no gravity, destroys medium projectiles, decent range. Goes through walls? Crit... muzzle flare? Moderate time cooldown (2-4s)
+	* Cannon itself does no damage
+	* In air...? (Could be unusable, could hang... falling would be weird.)
+	* Could also crit if it's already gone through something (wall, projectile, enemy)
+	* Above average knockback
+- [ ] Pistol: shoot forward, then toss gun for crit? Or it bounces as recoil? Maybe not straight forward, I feel like we have a lot of those.
+- [ ] Phaser: shoots a sustained line, crits after time? I feel like a slight downward angle (5-10°).
+- [ ] Seed: lightly toss forward; when hits ground, slowly (1-2s) grows into thorny bush, critting if grows enough.
+- [ ] Volatile: tosses out 1 to 3 (undecided, not random) hovering bombs in different directions. When struck by another weapon, they explode and crit.
+	* (Similar to RL2's lute.)
+	* Evo can block projectiles?
+- [ ] Giant Freaking Laser Beam: yeah
+	* Probably destroys projectiles, too.
+	* (RL2's gravity beam)
+- [ ] Partisan: whirls around player, destroying small projectiles. Expand and crit after hitting projectile?
+	* (RL2's Deflect... sort of)
+	* Keep spinning (and critting) as long as projectiles keep hitting?
+- [ ] ?: grants speed boost(?) and leaves a continuous trail of projectiles while moving. Explode after a bit?
+	* Honestly this is just because of the glitch Daggers were having
+- [ ] Cross laser?: moderate warmup, suspends player,  big laser X with player in center, after a moment pulses larger & crits. 
+	* Dash cancelable ofc.
+	* "Larger" = longer, wider, both?
+- [ ] ?: ranged weapon with a projectile that splits on button press. Crit: center (original trajectory) after split?
+	* Feels cooler if it's an arcing projectile.
+	* Maybe like a shell that opens up (and drops half-shells)?
+	* ... What if the center stops having gravity (or at least has a significantly different arc)? Seems interesting
+		* Actually if it starts going straight that might be too easy to hit with? We'll see
+	* Ok now I'm imagining like a laser drone that when triggered, STOPS, fires a laser, then splits in halves that fly backwards
+		* Maybe not laser? Anyway sounds cool
+- [ ] Regenerative shield: some variant of large-but-close pattern, blocks projectiles (up to med? large?). Blocked projectiles count as hits for cooldowns. (Has hit cooldown.)
 
 no pattern ideas:
 	• something something chaotic weapon

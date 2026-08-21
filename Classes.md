@@ -14,4 +14,4 @@ Assuming you can choose your starting weapon within the class's category, but ma
 * ~~Ranger~~ ~~gunner~~ actually i think ranger was maybe right: ranged (Renaissance) weapon... faster time cooldowns? More damage on distant enemies?
 * Demolitionist: reduce cooldown of (other?) weapons when hit more than one enemy in close succession. Start with explosive weapon.
 	* Actually maybe damage or something instead? Having a bunch of classes reduce cooldown seems boring. (And would encourage us to make stupid long cooldowns.)
-		* Damage seems hard to implement (or rather like it would sometimes be arbitrary which enemy gets extra damage), but I'm not sure what other reward to give...
+		* Damage seems hard to implement (or rather like it would sometimes be arbitrary which enemy gets extra damage), but I'm not sure what other reward to give... health? Money, does that exist?

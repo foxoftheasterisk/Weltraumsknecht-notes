@@ -1,7 +1,4 @@
-This page contains notes that were written for myself and may be confusing, and also contain contradictions and thought processes. Just... so you're aware.
-(The other pages are at least organized with other people in mind.)
-Also, there were originally strikethroughs that have been removed in the conversion.
-Seemed fitting to leave them as-is though, at least for now.
+(This is a way for me to check that all notes in the original file are represented in new files)
 
 Weltraumsknecht 
 aka "rogue vampyres"

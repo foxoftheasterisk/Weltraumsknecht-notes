@@ -20,6 +20,8 @@ Weapons can have mods installed to them.  The number of mods slots increases wit
 Weapons have evolution requirements of having specific mods equipped, certain other weapons to unite with, or both (at higher evolutions).
 
 ... Although I'm starting to think unites are actually a bad idea in this context.
+I mostly wanted them to mix up evo requirements, so they're not ALL mods. Maybe there's another way?
+If nothing else, they could have a other weapon requirement that's NOT a unite. That makes it a bit less weird.
 
 Not sure how weapons should evolve once their requirements are met:
 * Immediately?
@@ -32,6 +34,7 @@ Not sure how weapons should evolve once their requirements are met:
 		* Although this gets better if they also perform other functions, such as being a merchant.
 		* Also, there can be a notification. (Altho I kinda think that breaks the mystique...)
 * A certain number of kills/hits with the weapon after fulfilling the requirement?
+    * I kinda like that actually. Like it's absorbing power from the mod (or other weapon). And it's a bit more of a pleasant surprise.
 * Some other catalyst?
 	* What?
 * Unique by weapon?
@@ -40,3 +43,4 @@ Not sure how weapons should evolve once their requirements are met:
 Basic weapons may have multiple branching evolution paths—maybe all have the same number (2?), maybe not.
 Evolved weapons may or may not. Certainly, at higher evolutions, branches should be rarer and unites more common (to reduce the total number of weapons that need assets and testing). Also possible that branches may merge.
 
+... Actually, kinda starting to think weapons should only evolve once. If we have just four areas, that seems appropriate.
