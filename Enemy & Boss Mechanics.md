@@ -1,1 +1,1 @@
-As you explore the 
+As you explore the station you will discover enemies. You do not technically have to fight them but 
