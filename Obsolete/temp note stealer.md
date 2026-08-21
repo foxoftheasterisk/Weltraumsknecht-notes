@@ -1,14 +1,5 @@
 (This is a way for me to check that all notes in the original file are represented in new files)
 
-Controls like Rogue Legacy 2 (bc i love it) but without spin kicks.
-(Or maybe yes spin kicks? That does a lot to keep it aerial & agile)
-(Could always have spin kick as a purely movement option)
-Move left and right, dash left and right, jump, (primary) attack.
-Dashes only last as long as they're held, no minimum length. Same with jump. (Maybe a very small minimum.)
-
-Your primary weapon is used manually and can skill crit. All other weapons fire automatically and only deal base damage.
-(Alternatively, we could have three manually-used weapons and no secondaries...)
-
 Enemies generally have two health (at least in the first area); common weapons generally deal one damage, or two with a skill crit. (Rarer weapons may focus on more damage, or more area.)
 We can have more or less this behavior, but with somewhat higher numbers, so that we can do damage increases without being entirely OP
 for example some enemies can take two hits, but only have a little more health, so a damage buff will make it change to one hit; others are much closer to needing the full two hits
