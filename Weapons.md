@@ -214,6 +214,8 @@ Specific weapon ideas (checkbox indicate implemented):
 	* Distance crit? (Or speed, but that's functionally the same)
 	* "Second, delayed crit explosion" works.
 		* Although it again seems like it would almost always crit
+    * actually thinking about what if it threw cluster type bombs that crit? Maybe throws them backwards, that seems like an interesting way for it to work
+        * diagonal back-up makes it less likely that the same target will be hit by both. I think I like it.
 - [ ] Tower shield: slow movement, large hurtbox, blocks all projectiles, crits after blocking projectile. Can hold for several seconds. Long time cooldown.
 	* Upgrade to energy shield, less or no movement penalty and curves around head/feet some.
 	* Seems very similar to vacuum and umbrella...

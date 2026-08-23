@@ -15,6 +15,8 @@ Weapons can be freely swapped between slots
 
 Weapons have... probably three stages of evolution. As they evolve, they deal more damage and gain other benefits as well. (Although there could be exceptions that get only large amounts of damage or only very significant other benefits, but if so only few.)
 
+.. Actually, kinda starting to think weapons should only evolve once. If we have just four areas, one evolve seems appropriate.
+
 Weapons can have mods installed to them.  The number of mods slots increases with the rarity of the weapon.
 
 Weapons have evolution requirements of having specific mods equipped, certain other weapons to unite with, or both (at higher evolutions).
@@ -43,4 +45,6 @@ Not sure how weapons should evolve once their requirements are met:
 Basic weapons may have multiple branching evolution paths—maybe all have the same number (2?), maybe not.
 Evolved weapons may or may not. Certainly, at higher evolutions, branches should be rarer and unites more common (to reduce the total number of weapons that need assets and testing). Also possible that branches may merge.
 
-... Actually, kinda starting to think weapons should only evolve once. If we have just four areas, that seems appropriate.
+If basic weapons *don't* all have the same number of evolutions, that means:
+1. Some weapons can have the advantage of being easier to evolve—we can even use that to shore up a weapon that's underpowered otherwise.
+2. It's not as obvious when you've found all evolutions for a weapon, which means there's more feeling of discovery.

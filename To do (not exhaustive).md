@@ -1,3 +1,5 @@
+... I should put a release on the github. Like, ASAP.
+
 * Make a proper CollisionQueue (with priority)
 * PointTowardsMovementBehaviour
 	* Or maybe it should be called TurnWithMovementBehaviour?
