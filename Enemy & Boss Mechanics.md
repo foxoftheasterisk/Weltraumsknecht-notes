@@ -4,3 +4,4 @@ Each room determines how many enemies appear in it as well as what class of enem
 
 Once an enemy is killed, it is gone forever.
 
+I don't know if "coins" is the best way to do it but I think there should be some reward for defeating harder enemies, especially doing so earlier. Having enemies drop scaling amounts of currency seems like the obvious way. 
