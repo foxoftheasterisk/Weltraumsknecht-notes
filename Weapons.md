@@ -65,6 +65,7 @@ Specific weapon ideas (checkbox indicate implemented):
 		* Actually, maybe all ground shots should crit? Or all after a certain time? It sounds hard to crit with.
 - [x] Throwing knives: throws forward, hold for spread. Crit..? Maybe main dagger crits? (If so it's not the straight forward one)
 	* Evolves with random crits?
+	* I'm not quite satisfied with how these behave, but I'm not sure why.
 - [x] Throwing axe: Throws forward and upward, gravity, crits after bouncing once. (Destroyed on second collision.)
 	* (This is RL2's spoon.)
 	* Persistence evo?
