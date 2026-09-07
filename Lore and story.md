@@ -14,3 +14,12 @@ oh, hmm. we could pull the old samus helmet trick... but she's fat. :33 and blac
 We could lean more into Fusion and have there be a Very Strong Creature Hunting You that shows up occasionally
 
 hmm, could be interesting to have a system of randomly generated missions? (Or randomly *chosen* anyway.) 
+
+I like the idea of there being a few recurring NPCs that you randomly find around the station, and kinda keep you apprised of its status.
+(And they can perform gameplay functions too, perhaps.)
+~~and if we want to be brutal we can kill one halfway through~~
+
+Probably can't have all that much story that occurs during the game, not without bloating it.  
+
+ok, wait. doing the identity thing works IF it's an actual theme. something something getting stared at by aliens. And then she gets home and...
+(Maybe not black though, cause like, i absolutely do not have any experiences to tell a story About being black.)

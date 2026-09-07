@@ -94,6 +94,7 @@ And then there's the metroidvania standby of doing something that ends up gettin
 
 Six areas is probably about the maximum. Especially since we have to develop each of them.
 Four might be more achievable.
+Actually, probably should aim for just three for now. 
 
 Since this isn't started outright: Rogue Legacy 2 has a concept where the same rooms can spawn in different areas, but with some elements determined by the area. For example some rooms have "round hazards" which are swinging chains in the castle, but growing ice chunks in the cold area. I thought this concept seems useful.
 
