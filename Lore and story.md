@@ -22,4 +22,10 @@ I like the idea of there being a few recurring NPCs that you randomly find aroun
 Probably can't have all that much story that occurs during the game, not without bloating it.  
 
 ok, wait. doing the identity thing works IF it's an actual theme. something something getting stared at by aliens. And then she gets home and...
-(Maybe not black though, cause like, i absolutely do not have any experiences to tell a story About being black.)
+(Maybe still not black though, cause like, i absolutely do not have any experiences to tell a story About being black.)
+
+what if the aliens are like, twice her size, so she's seen as like, a "natural infiltrator" or something...
+Idk, that's kind of a stretch, but if im gonna make a game about identity it's gonna be about being a trans girl
+not really sure how that Works with the Renaissance bit, unless there's like, alien hrt
+still weird socially, unless like, there's also alien life extension going on (or... time dilation?) and she comes back to the modern world?
+*ehhh*
