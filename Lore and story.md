@@ -29,3 +29,34 @@ Idk, that's kind of a stretch, but if im gonna make a game about identity it's g
 not really sure how that Works with the Renaissance bit, unless there's like, alien hrt
 still weird socially, unless like, there's also alien life extension going on (or... time dilation?) and she comes back to the modern world?
 *ehhh*
+
+... or we do the helmet bit and she's turned into a horrifying space monster while she was gone :33
+but like, it's gotta be explicit that she likes it. humans hate her about it but she's all over it.
+
+(I guess she doesn't have to go back to earth at all? But probably *someone* has to react to her new face.)
+
+yeah im into that.
+Alternatively, we can have the writing imply she's gone horrifying space monster, but she's actually just a binary trans woman.
+Not sure which I like better.
+
+... what if The Catastrophe is other humans trying to escape but she's just trying to protect the station
+(I guess it doesn't have to be other *humans*. Other captives.)
+
+(Oops i made it a little more metroid-y. Oh well it's fiiiiiine.)
+
+I want the writing to be a little bit ambiguous/misleading, so at first you think she *is* trying to escape.
+
+Tutorial: training with the landsknecht (as a man). At the end of the tutorial she's abducted (classic beam of light probably).
+
+Run opening: a dark room (the power is out). Someone opens the door, says something to the effect "We're getting out of here, come on!" She puts on her armor (we can only see silhouette) and leaves.
+
+One of the bosses dialogue (second probably?): "why are you fighting us? Look what they've done to you!" "They've done nothing I didn't want." "Oh, you're a *freak*." (Starts attacking without warning.)
+Alternatively, "Oh, you're one of *those*."
+
+I *don't* want to imply that she's fighting to keep the others from escaping. She doesn't care if they leave, she'd just as soon they do actually. She just doesn't want them destroying her home in the process.
+
+First boss: "We found the [important part of space station]! If we destroy it they'll be too busy with that to stop us!" "I can't let you do that. People *live* here." "People? Pfft, you mean *aliens*. Why should I care what happens to them?" (Fight begins)
+
+(Given the first area is the "zoo", the important part might be life support?)
+
+No justification for it being a roguelike. That's not part of the story, it's just how the game is presented.
