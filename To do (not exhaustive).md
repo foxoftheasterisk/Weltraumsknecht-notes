@@ -1,6 +1,6 @@
 * Make a proper CollisionQueue (with priority)
-    * lateUpdate() will be helpful here
-    * player bouncing may want to happen immediately?
+    * player bouncing may want to happen immediately, though?
+        * actually it seems to be working fine now without immediacy
 * PointTowardsMovementBehaviour
 	* Or maybe it should be called TurnWithMovementBehaviour?
 * Add continuous versions of ButtonPressed, ButtonReleased for weapon phasing
@@ -18,3 +18,9 @@
     		* ehh, isn't ideal; let's just expand the Event
 * Fix enemy knockback and physics
 * implement enemies with different behaviors
+
+Enemy overhaul:
+- Enemy should probably be non-abstract, and have separate MovementAI and Attacks.
+- Attacks may be largely reusable with just swapping of projectiles & animations. And range.
+- multi-projectile Attacks maybe work like weapon phases? Probably don't need too be as complex though.
+- MovementAI is a base class (/interface?) that probably *does* need several stages of abstract classes (GroundMovement to GroundApproaches, etc)
