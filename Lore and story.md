@@ -22,7 +22,7 @@ I like the idea of there being a few recurring NPCs that you randomly find aroun
 
 Probably can't have all that much story that occurs during the game, not without bloating it.  
 
-ok, wait. doing the identity thing works IF it's an actual theme. something something getting stared at by aliens. And then she gets home and...
+ok, wait. doing the identity thing works IF it's an actual theme. ~~something something getting stared at by aliens. And then she gets home and...~~
 (Maybe still not black though, cause like, i absolutely do not have any experiences to tell a story About being black.)
 
 ~~what if the aliens are like, twice her size, so she's seen as like, a "natural infiltrator" or something...~~
@@ -44,8 +44,6 @@ Not sure which I like better.
 (I guess it doesn't have to be other *humans*. Other captives.)
 (I feel like the themes work better if it *is* humans though. Especially if they're others of the landsknecht.)
 
-(Oops i made it a little more metroid-y. Oh well it's fiiiiiine.)
-
 I want the writing to be a little bit ambiguous/misleading, so at first you think she *is* trying to escape.
 
 Tutorial: training with the landsknecht (as a man). At the end of the tutorial she's abducted (classic beam of light probably).
@@ -54,10 +52,16 @@ Run opening: a dark room (the power is out). Someone opens the door, says someth
 
 One of the bosses dialogue (second probably?): "why are you fighting us? Look what they've done to you!" "They've done nothing I didn't want." "Oh, you're a *freak*." (Starts attacking without warning.)
 Alternatively, "Oh, you're one of *those*."
+Mech pilot?
 
 I *don't* want to imply that she's fighting to keep the others from escaping. She doesn't care if they leave, she'd just as soon they do actually. She just doesn't want them destroying her home in the process.
 
 First boss: "We found the [important part of space station]! If we destroy it they'll be too busy with that to stop us!" "I can't let you do that. People *live* here." "People? Pfft, you mean *aliens*. Why should I care what happens to them?" (Fight begins)
 (Given the first area is the "zoo", the important part might be life support? Or it could be about them releasing a dangerous creature. Or even directly destroying a living space.)
+("Dangerous creature" has the advantage of potentially being foreshadowing as well)
+(Or they could successfully release the creature, and THAT'S the actual boss.)
 
 No justification for it being a roguelike. That's not part of the story, it's just how the game is presented.
+
+The problem with the bosses being humans is it makes their designs less interesting...
+... well, it doesn't have to. Mechs, "Dangerous creatures", power armor, alien experiments, there's no shortage of justifications for more interesting designs.
