@@ -84,6 +84,19 @@ Speaking of, yeah, distinct area identities is a major goal here. RL2 does a gre
 Also would be cool to have "complete half this area, then do this other area, then return"... but to do that we'd need—
 ...I was going to say we'd need mid-area mobility drops, but it could just be, like, some kind of key. Mobility increasers are the *biggest* keys we want to do, but we could just do, like, actual keys, for some things. (Probably not too many though.)
 
+Other, non-mobility keys:
+- Impenetrable darkness
+- damaging areas (varia suit)
+- ... *or* damaging areas like the electric water
+- just actual locked doors (boring) (but perfectly serviceable)
+- environment destruction (Probably by the other landsknecht!)
+- *probably* don't have a countdown-to-destruction bit... but maybe!
+
+the nice thing here is we can potentially have these "keys" be pointed to by NPCs, and thus, objectives!
+However must keep in mind that some of these are not "hard" barriers and thus do not guarantee other upgrades...
+
+If there *are* minibosses, putting them with the "keys" makes sense
+
 There's also the concept, if we're leaning in to Fusion, of the stage itself being damaged by events not (directly) caused by you. (SA-X, that guard robot.) That could also be a "key", although I think we'd want to keep it to a relatively small area to prevent search frustration. Or have a map indicator (and something that prompts you to *check* the map), I guess.
 
 There's also the concept of going through a (small part of) a later area to reach the next area, that could be fun. (Not sure if this involves nerfed versions of the enemies or not—might depend on how *much* later an area it is.)
@@ -111,10 +124,11 @@ Areas (and the setting generally) lean towards the Metroid side of Metroidvania.
 		* why aren't they contained? shhh don't worry about it.  ... maybe because the station is having An Emergency
 * Habitat?: more open (esp vertically) and rounded/organic shapes
 	* Seems weird for there to be zoo *and* habitat, but
-		* Unless this habitat is for the aliens that run the place?
+		* Unless *this* habitat is for the aliens that run the place?
 * Cold storage?
 * Bridge/operational areas?
-* The promenade (ds9)
+* The promenade (like ds9)
 * Docking bays?
-* Tower climb — I don't know how to flavor it, but the sun tower is cool and I want to steal its glory
+    * not sure if this would be a whole area, maybe a sub-area?
+* ~~Tower climb — I don't know how to flavor it, but the sun tower is cool and I want to steal its glory~~
 

@@ -20,5 +20,6 @@ Potential movement unlocks:
 - additional air dash
 - grapple
 - uhhh shortness? (like a morph ball yknow)
+- ledge grab (can also be a base movement)
 
-... It's kind of hard to come up with pure movement upgrades actually. Most metroidvanias give weapon upgrades.
+... It's kind of hard to come up with pure movement upgrades actually. Most metroidvanias give largely weapon upgrades.
