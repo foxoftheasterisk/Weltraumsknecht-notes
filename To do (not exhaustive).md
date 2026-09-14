@@ -20,7 +20,12 @@
 * implement enemies with different behaviors
 
 Enemy overhaul:
-- Enemy should probably be non-abstract, and have separate MovementAI and Attacks.
 - Attacks may be largely reusable with just swapping of projectiles & animations. And range.
-- multi-projectile Attacks maybe work like weapon phases? Probably don't need too be as complex though.
-- MovementAI is a base class (/interface?) that probably *does* need several stages of abstract classes (GroundMovement to GroundApproaches, etc)
+- multi-projectile Attacks maybe work like weapon phases? Probably don't need to be as complex though.
+- attack range: struct? with values:
+    - direction (up/over/down, maybe diag-up/diag-down? Or it could be specified in degrees. Also potentially "all" tho that's not *necessary*, it just lets us skip some checks)
+    - tolerance (degrees)
+    - minDistance (often 0)
+    - maxDistance
+- there *could* be a concept of same attacks having multiple ranges with different priorities but until it's needed im not making it. I think there's a reasonable chance we can make the whole game without that.
+- awkwardly i feel like angle tolerances need to be higher when the player is closer... that or we look at the whole player bounding box (or well each corner) instead of just the origin?? that seems better, but still awkward
