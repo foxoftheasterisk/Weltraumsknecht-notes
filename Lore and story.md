@@ -47,6 +47,7 @@ Not sure which I like better.
 I want the writing to be a little bit ambiguous/misleading, so at first you think she *is* trying to escape.
 
 Tutorial: training with the landsknecht (as a man). At the end of the tutorial she's abducted (classic beam of light probably).
+—rather, *the whole squad* is abducted.
 
 Run opening: a dark room (the power is out). Someone opens the door, says something to the effect "We're getting out of here, come on!" She puts on her armor (we can only see silhouette) and leaves.
 

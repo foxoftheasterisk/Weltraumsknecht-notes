@@ -93,7 +93,11 @@ Other, non-mobility keys:
 - *probably* don't have a countdown-to-destruction bit... but maybe!
 
 the nice thing here is we can potentially have these "keys" be pointed to by NPCs, and thus, objectives!
-However must keep in mind that some of these are not "hard" barriers and thus do not guarantee other upgrades...
+
+However must keep in mind that some of these are not "hard" barriers and thus do not guarantee other upgrades... or even themselves, necessarily.
+The mobility increases (mostly) also fall into that category. Something that "requires" a wall jump may still sometimes be doable without it, by kicking off enemies or some such.
+(Suppose we could remove kick, but kick is *fun.*)
+So always make sure there's a way out without needing the upgrade. (Or, a way to *get to* the upgrade.)
 
 If there *are* minibosses, putting them with the "keys" makes sense
 
@@ -108,6 +112,8 @@ And then there's the metroidvania standby of doing something that ends up gettin
 Six areas is probably about the maximum. Especially since we have to develop each of them.
 Four might be more achievable.
 Actually, probably should aim for just three for now. 
+
+I like the idea of "secret areas" that don't show up on the map. The only issue with that is, we'd need to have a map reveal for it to make sense! (I don't *object* to that, I'm just not sure where it fits in.)
 
 Since this isn't started outright: Rogue Legacy 2 has a concept where the same rooms can spawn in different areas, but with some elements determined by the area. For example some rooms have "round hazards" which are swinging chains in the castle, but growing ice chunks in the cold area. I thought this concept seems useful.
 
@@ -129,6 +135,6 @@ Areas (and the setting generally) lean towards the Metroid side of Metroidvania.
 * Bridge/operational areas?
 * The promenade (like ds9)
 * Docking bays?
-    * not sure if this would be a whole area, maybe a sub-area?
+    * not sure if this would be a whole area, maybe a sub-area? Of ops maybe?
 * ~~Tower climb — I don't know how to flavor it, but the sun tower is cool and I want to steal its glory~~
 
