@@ -74,6 +74,10 @@ However it would probably be much simpler to do the classic roguelike "floors".
 ... although it could also mean that runs get easier or harder based on where the areas spawn. Which, that variability is somewhat inevitable, but also keeping it *relatively* consistent is somewhat desirable.
 
 Teleporters for sure, obvs.
+- Starting room
+- every boss room
+- every side quest destination
+- possibly others
 
 Now having no consistent layout could make area identities less distinct, but it's probably fine.
 

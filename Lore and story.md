@@ -53,7 +53,10 @@ Run opening: a dark room (the power is out). Someone opens the door, says someth
 
 One of the bosses dialogue (second probably?): "why are you fighting us? Look what they've done to you!" "They've done nothing I didn't want." "Oh, you're a *freak*." (Starts attacking without warning.)
 Alternatively, "Oh, you're one of *those*."
-Mech pilot?
+
+This boss I think is just, like, a dude in a mech or power armor, but he just gets more outraged and out of control as it goes.
+... That's a lot less interesting than the first boss, so maybe change it somehow?
+At the least, he can wreck the stage and change the terrain as the fight goes on.
 
 I *don't* want to imply that she's fighting to keep the others from escaping. She doesn't care if they leave, she'd just as soon they do actually. She just doesn't want them destroying her home in the process.
 
@@ -66,7 +69,7 @@ First boss: "We found the [important part of space station]! If we destroy it th
 
 Is there a thematic enemy design we can use here? A terrible monster that cis people release upon trans people that endangers everybody...
 ... it's gotta be an eyeball monster.
-I'm thinking, like, insidious creeping black goo with occasional eyeballs popping out, as the fight
+I'm thinking, like, insidious creeping black goo with occasional eyeballs popping out, as the fight goes on it covers more and more of the arena. Maybe hands also? Or, like, columns that block off parts of the stage...? 
 
 No justification for it being a roguelike. That's not part of the story, it's just how the game is presented.
 
@@ -74,3 +77,5 @@ The problem with the bosses being humans is it makes their designs less interest
 ... well, it doesn't have to. Mechs, "Dangerous creatures", power armor, alien experiments, there's no shortage of justifications for more interesting designs.
 
 "[Deadname] is dead!" "I'm literally right here. And my name is [?]" "He's dead and we're leaving without him." ("I didn't want to go with you anyway, but this still hurts.")
+
+should we also invoke the "I just want to protect you from all the scary people out there that's why I'm hurting you"?
