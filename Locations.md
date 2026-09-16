@@ -13,7 +13,7 @@ It does mean we'd likely want larger rooms, to fit the structures needed to allo
 For secrets/breakable walls: we may not have different categories of weapons we can guarantee (apart from kick and not kick) BUT we can make it so breakable walls only break from (skill) crits.
 (This is easier to manage with some weapons than others but that seems fine.)
 
-... Could also just be a certain amount of damage.
+... Could also just be a certain amount of damage. Or number of hits.
 
 Assuming one boss per area for now. 
 More feels more metroidvania actually, but too many bosses has problems, plus it's more to design.
@@ -32,27 +32,37 @@ Using bosses to heal is possible if you're a badass, but probably not recommende
 Hmm. Other thought—metroidvanias do like to spring Surprise Bosses on you. Should we do that? Or is that too cruel with permadeath in the mix?
 
 And, related but not necessarily the same question—should boss rooms be on the map directly, or a separate plane like in RL2?
+I'm thinking directly on the map. But I also want to let players have the chance to turn around and *not* face the boss yet.
 
-"Heirloom" challenges—i.e. a full heal followed by a challenge—seem appropriate. May or may not give an ability of some sort (or just have weapon/shop at the end, like sword portals?)
+Not sure how best to implement that—I'm pretty sure I *don't* want the boss room to be indicated on the map before finding it though.
+Maybe just a "lobby" room with a teleporter? Hmmn.
+... I kinda want the teleporter to not be available until after you beat the boss, though. Cause otherwise trapping you in a specific area is just not possible.
 
-"Fairy chest" challenges for heals? (Probably just one heart heal, but maybe not?)
-They could also just be for rarer weapons or something.
-Crystal hearts—2 heal + piece of heart
+~~"Heirloom" challenges—i.e. a full heal followed by a challenge—seem appropriate. May or may not give an ability of some sort (or just have weapon/shop at the end, like sword portals?)~~
 
-Average one full heart from pieces per area? (May not all be from Fairy chests, rootchoice room also might exist.)
-(This doesn't have to be four pieces.)
-Maybe more, actually, bc i think it should be typical to get one heart before the boss, and we've (not definitively) established there's more area you can get to after the boss (and after other bosses)
+~~"Fairy chest" challenges for heals? (Probably just one heart heal, but maybe not?)~~
+~~They could also just be for rarer weapons or something.~~
+~~Crystal hearts—2 heal + piece of heart~~
 
-I like that idea, but it's equally viable to have "Fairy chests" give weapon mods. (Or these could both exist.)
+~~Average one full heart from pieces per area? (May not all be from Fairy chests, rootchoice room also might exist.)~~
+~~(This doesn't have to be four pieces.)~~
+~~Maybe more, actually, bc i think it should be typical to get one heart before the boss, and we've (not definitively) established there's more area you can get to after the boss (and after other bosses)~~
 
-Hmm. If we're aiming for around 4-6 crystal hearts per area... that's about the same as how many weapon mods we want, I think. (Maybe 7, if four areas.) I kinda like that they end up about the same rarity.
+~~I like that idea, but it's equally viable to have "Fairy chests" give weapon mods. (Or these could both exist.)~~
 
-...It does kinda feel like post boss heals + crystal heart challenges + heirloom challenge heals + random drops is maybe too much healing, especially if we're trying to get 4-6 crystal hearts per location. I mean it all depends on how much damage you'll take, but... when it's all laid out, that sounds generous.
-The first thing to cut would probably be heirloom challenges... That, or cut down the healing from crystal hearts.
-... Or if half the crystal hearts are rootchoice ones that actually damage you. That would probably do it.
+At this point I'm thinking crystal hearts should have any special challenges or whatever, they're just *hidden*. Same with the weapon mods. They just work like Fusion's tank pickups.
 
-Still not sure what form heirloom challenges should take. Sword portal type enemy rushes? Those should exist, certainly, but not sure they should be the same.
+(Which does mean occasionally they aren't even hidden, they're just off in a side room.)
 
+Hmm. If we're aiming for around 4-6 crystal hearts per area... that's about the same as how many weapon mods we want, I think. I kinda like that they end up about the same rarity.
+
+(It might be a little more than that, actually. If there's three areas, and 4 weapons * 5 slots when evolved... it would be 7 per area to fill them all, and that's discounting the possibility of *replacing* weapons.)
+
+~~...It does kinda feel like post boss heals + crystal heart challenges + heirloom challenge heals + random drops is maybe too much healing, especially if we're trying to get 4-6 crystal hearts per location. I mean it all depends on how much damage you'll take, but... when it's all laid out, that sounds generous.~~
+~~The first thing to cut would probably be heirloom challenges... That, or cut down the healing from crystal hearts.~~
+~~... Or if half the crystal hearts are rootchoice ones that actually damage you. That would probably do it.~~
+
+~~Still not sure what form heirloom challenges should take. Sword portal type enemy rushes? Those should exist, certainly, but not sure they should be the same.~~
 
 Thinking maybe you can spin off spikes, but not terrain? That's kind of a weird thing to justify though
 (Because reclaiming "coins" without magnet or double jump)
@@ -79,6 +89,8 @@ Teleporters for sure, obvs.
 - every side quest destination
 - possibly others
 
+... Well, I say that, but there are actually some disadvantages to having teleporters. 
+
 Now having no consistent layout could make area identities less distinct, but it's probably fine.
 
 Speaking of, yeah, distinct area identities is a major goal here. RL2 does a great job of it and I want to replicate that. (Not with the same areas, of course.)
@@ -101,7 +113,7 @@ the nice thing here is we can potentially have these "keys" be pointed to by NPC
 However must keep in mind that some of these are not "hard" barriers and thus do not guarantee other upgrades... or even themselves, necessarily.
 The mobility increases (mostly) also fall into that category. Something that "requires" a wall jump may still sometimes be doable without it, by kicking off enemies or some such.
 (Suppose we could remove kick, but kick is *fun.*)
-So always make sure there's a way out without needing the upgrade. (Or, a way to *get to* the upgrade.)
+So always make sure there's a way out without needing the upgrade. (Or, a way to *get to* the upgrade, since getting stuck in an area can be kinda fun.)
 
 If there *are* minibosses, putting them with the "keys" makes sense
 
