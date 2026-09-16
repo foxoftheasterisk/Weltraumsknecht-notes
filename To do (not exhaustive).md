@@ -18,8 +18,13 @@
     		* ehh, isn't ideal; let's just expand the Event
 * Fix enemy knockback and physics
 * incorporate enemy attacks into phase system
+* move Projectile Properties to transition?
+    * Pros: less duplicate Phases, possibly easier to get phase event info
+    * Cons: less intuitive(?)
+* Hit-cooldown weapons
 
 Enemy overhaul:
-- Dying
-- there *could* be a concept of same attacks having multiple ranges with different priorities but until it's needed im not making it. I think there's a reasonable chance we can make the whole game without that.
-- awkwardly i feel like angle tolerances need to be higher when the player is closer... that or we look at the whole player bounding box (or well each corner) instead of just the origin?? that seems better, but still awkward. (like what if it stops being a box)
+- Fix animation facing
+- compare attack ranges to corners of player bounding box rather than center
+- attack range from source rather than enemy pivot
+- ... or instead of all that we could just make the range more tolerant, like 120 degrees or something. that would work just fine.

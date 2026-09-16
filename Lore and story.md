@@ -57,12 +57,20 @@ Mech pilot?
 
 I *don't* want to imply that she's fighting to keep the others from escaping. She doesn't care if they leave, she'd just as soon they do actually. She just doesn't want them destroying her home in the process.
 
+Have a side quest where she guides a more peaceable escapee to an escape pod.
+
 First boss: "We found the [important part of space station]! If we destroy it they'll be too busy with that to stop us!" "I can't let you do that. People *live* here." "People? Pfft, you mean *aliens*. Why should I care what happens to them?" (Fight begins)
 (Given the first area is the "zoo", the important part might be life support? Or it could be about them releasing a dangerous creature. Or even directly destroying a living space.)
 ("Dangerous creature" has the advantage of potentially being foreshadowing as well)
 (Or they could successfully release the creature, and THAT'S the actual boss.)
 
+Is there a thematic enemy design we can use here? A terrible monster that cis people release upon trans people that endangers everybody...
+... it's gotta be an eyeball monster.
+I'm thinking, like, insidious creeping black goo with occasional eyeballs popping out, as the fight
+
 No justification for it being a roguelike. That's not part of the story, it's just how the game is presented.
 
 The problem with the bosses being humans is it makes their designs less interesting...
 ... well, it doesn't have to. Mechs, "Dangerous creatures", power armor, alien experiments, there's no shortage of justifications for more interesting designs.
+
+"[Deadname] is dead!" "I'm literally right here. And my name is [?]" "He's dead and we're leaving without him." ("I didn't want to go with you anyway, but this still hurts.")
