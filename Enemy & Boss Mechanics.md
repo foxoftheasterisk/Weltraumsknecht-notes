@@ -10,3 +10,9 @@ Well... actually, maybe that's not necessary? If we have elite enemies, *they* s
 It's kind of tricky because encouraging the player to challenge hard areas earlier *is* something that probably makes the game work better, but I just don't see a good fit for money!
 
 I mean, exploring still does give rewards, but they probably don't scale with the area difficulty?
+
+... anyway.
+
+Bosses are about as you'd expect—they exist in certain places on the map, once you enter a boss room you're stuck until you beat the boss. 
+When defeated, a boss drops a heart container (full heal + increased health capacity) and a movement upgrade.
+

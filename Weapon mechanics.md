@@ -7,6 +7,8 @@ At the start of the game, the player will have a weapon in one of these slots. (
 More weapons are obtained from weapon roll rooms. These rooms are rare—like, I'd say one per two areas. *Maybe* one per area.
 After discovering such a room, you may take a weapon immediately or leave it and come back later. However the weapons on offer will remain the same.
 
+Alternatively, we could get weapon choice after the boss? I don't quite like that though.
+
 If all weapon slots are full, the player may replace one of them with a new weapon, but the old weapon is lost. The kick may not be replaced.
 
 ~~Weapon rooms in later areas have a chance to give evolved weapons. This chance is probably pretty small, though it could get significant in the late areas.~~

@@ -133,6 +133,10 @@ I like the idea of "secret areas" that don't show up on the map. The only issue 
 
 Since this isn't started outright: Rogue Legacy 2 has a concept where the same rooms can spawn in different areas, but with some elements determined by the area. For example some rooms have "round hazards" which are swinging chains in the castle, but growing ice chunks in the cold area. I thought this concept seems useful.
 
+If "danger floors" are a thing (im not sure) then one could be a floor you can kick off, but not walk on.
+
+... I don't know if this kind of hazards should even feature. Maybe we should just keep it simple and stick to
+
 Areas:
 Areas (and the setting generally) lean towards the Metroid side of Metroidvania.
 * Zoo: starting area
