@@ -82,6 +82,7 @@ Specific weapon ideas (checkbox indicate implemented):
 	- [ ] Greatsword: longer, more damage, maybe somewhat faster swing?
 		* Evo with jump boost? That doesn't seem like a weapon mod, though.
 	* Unite with kick -> screw attack? (A bit of a stretch)
+	* this is a strong weapon
 - [ ] Pan: A chonky swing (enough warmup to feel, large hurtbox) that reflects small projectiles as fireballs. They maybe bounce upward? (Like fire flower)
 	* (This is RL2's pan.)
 	* Evolve with size?
@@ -107,6 +108,7 @@ Specific weapon ideas (checkbox indicate implemented):
 - [x] Hammer: toss upward, crits when falling
 	* Evolve to volcano: scatters several projectiles, same crit property.
 	* (Based on, but not identical to, RL2's magma ball spell.)
+	* this is really easy to crit with—maybe it should be the reverse? (Crit *until* it starts falling)
 - [x] Caltrops: scatter nearby, crit after settling. Last until next usage.
 	* Wider scatter if used in air (not a different pattern, just lets them spread more)
 - [ ] Vacuum: hold to damage enemies close in front and suck in small projectiles and killed enemies. (also slows player movement) After sucking something in, performs critting blast when released.  Hit cooldown of... 3-4?

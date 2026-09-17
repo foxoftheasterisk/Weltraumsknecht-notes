@@ -1,10 +1,5 @@
 (This is a way for me to check that all notes in the original file are represented in new files)
 
-Enemies generally have two health (at least in the first area); common weapons generally deal one damage, or two with a skill crit. (Rarer weapons may focus on more damage, or more area.)
-We can have more or less this behavior, but with somewhat higher numbers, so that we can do damage increases without being entirely OP
-for example some enemies can take two hits, but only have a little more health, so a damage buff will make it change to one hit; others are much closer to needing the full two hits
-So maybe base 10 damage (20? For crits)
-
 Player starts with three health, probably all enemies do 1 damage. May be exceptions for bosses or very late game enemies.
 Actually, I think contrary to tropes, starting with 4 or 5 health might work better. (3 is easy to die to one mistake, plus the first heart container then is a huge difference.)
 (Like, you start with three hearts in Zelda, but there's also half and quarter hearts, it's not just three health.)
