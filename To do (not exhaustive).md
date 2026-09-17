@@ -18,8 +18,8 @@
 		* Although, I think it *can* acquire it with what it gets? (through a chain of references)
     		* ehh, isn't ideal; let's just expand the Event
 * Fix enemy knockback and physics
-* incorporate enemy attacks into phase system(?)
 * move Projectile Properties to transition?
     * Pros: less duplicate Phases, possibly easier to get phase event info
     * Cons: less intuitive(?)
 * Hit-cooldown weapons
+* second enemy
