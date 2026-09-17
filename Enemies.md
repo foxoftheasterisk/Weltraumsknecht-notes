@@ -9,8 +9,8 @@ Also, enemies should have tells before their attacks.
 
 These are just ideas, they don't all have to be used.
 
-- ? — small ground enemy, doesn't move? (Or moves slowly.) Fires a fast projectile which skims across the ground. Projectile falls off cliffs and continues moving.
-    - 2: ground projectile is taller and lasts longer (or, fires multiple? Maybe two originals flanking one Big?). Also fires an arcing, bouncing? fast projectile. Might be aimed?
+- worm — small ground enemy, doesn't move? (Or moves slowly.) Fires a fast projectile which skims across the ground. Projectile falls off cliffs and continues moving.
+    - 2: ground projectile is bigger and leaves a trail of damage behind it. Also fires an arcing, bouncing? fast projectile. Might be aimed?
     - imagining the ground projectile as like, a little moving spike of earth (which makes no sense, but shh). The enemy itself is... a little volcano? A little bug? A little dude with a big hammer? Definitely little.
         - bug with some upright orientation, leans forward to ground attack or back for air?
             - bugthing actually sticking out of the ground maybe
