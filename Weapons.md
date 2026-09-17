@@ -20,7 +20,7 @@ Not sure I like the idea when a fair number of mods and class powers revolve aro
 
 Actually... maybe hit-cooldown weapons should count their own hits? That opens up some play possibilities—especially if you can get multiple hits per shot!
 Kind of a double down on badness if you miss, but that's probably okay too?
-And then a one-hit cooldown is *like* no cooldown, but not the same.
+And then a one-hit cooldown is *like* no cooldown, but not the same. Just like a half-second cooldown isn't quite the same as none.
 
 RIPLIB(Reduction In Power when Leveling Is Bad) applies to weapon evolutions—as much as possible, evolutions should be *strictly* better than their unevolved forms. (No increased cooldowns, for example.)
 ~~For unites, this is only a strict requirement for the "primary", but it should still be kept in mind and try to avoid a drastic loss in capabilities for the other.~~

@@ -1,5 +1,13 @@
-(Haven't yet copied down all information in the original notes re: locations)
 (May want to split this page further)
+
+The map, in general, is like a metroidvania: One big map, divided into several themed areas, but you can move between those areas freely.
+
+Comparable to Rogue Legacy (2)'s map, but leaning more into the metroidvania aspects: hidden (and not so hidden) upgrades, regions blocked off until later, rooms that may be a bit of a challenge to navigate, etc.
+
+Compared to a classic metroidvania though, it's more likely we'll have "soft" barriers that you can cheat, since we don't have the option of requiring specific weapons.
+
+I'm currently thinking we'll have three areas, arranged into a rough triangle so there are connections between each pair of areas.
+It could be fun to instead have the areas not have a consistent layout, but it's also that much harder to work with. So, stretch goal?
 
 Since I was thinking about a Metroid Fusion kind of aesthetic... maybe we should *not* have pass-through platforms?
 
@@ -89,7 +97,7 @@ Teleporters for sure, obvs.
 - every side quest destination
 - possibly others
 
-... Well, I say that, but there are actually some disadvantages to having teleporters. 
+... Well, I say that, but there are actually some disadvantages to having teleporters. Mainly, it makes it less possible to trap the player in one area.
 
 Now having no consistent layout could make area identities less distinct, but it's probably fine.
 
@@ -135,7 +143,9 @@ Since this isn't started outright: Rogue Legacy 2 has a concept where the same r
 
 If "danger floors" are a thing (im not sure) then one could be a floor you can kick off, but not walk on.
 
-... I don't know if this kind of hazards should even feature. Maybe we should just keep it simple and stick to
+... I don't know if this kind of hazards should even feature. Maybe we should just keep it simple and stick to enemies.
+
+(Although "floors" you can't walk on, for whatever reason—lava, spikes, whatever—are both a classic trope and a useful tool. So we probably do at least that.)
 
 Areas:
 Areas (and the setting generally) lean towards the Metroid side of Metroidvania.

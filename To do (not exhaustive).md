@@ -1,6 +1,7 @@
 * Make a proper CollisionQueue (with priority)
     * player bouncing may want to happen immediately, though?
         * actually it seems to be working fine now without immediacy
+        * i might want to expand the hurtbox a bit more though actually
     - so qctually it looks like the Simulation might already have a sort of priority system? and i just need to use it
 * PointTowardsMovementBehaviour
 	* Or maybe it should be called TurnWithMovementBehaviour?
@@ -20,6 +21,8 @@
 * Fix enemy knockback and physics
 * move Projectile Properties to transition?
     * Pros: less duplicate Phases, possibly easier to get phase event info
-    * Cons: less intuitive(?)
+    * Cons: less intuitive(?), can't define properties for initial phase
 * Hit-cooldown weapons
 * second enemy
+* make collision listener & BreakOnContactBehavior trigger *after* ProjectileXCollision events
+* abstract Projectile class parent of WeaponProjectile and EnemyProjectile (related to above)
