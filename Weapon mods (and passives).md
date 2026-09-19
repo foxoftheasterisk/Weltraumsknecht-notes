@@ -16,7 +16,8 @@ Alternatively, there can be some mods that have effects on the player rather tha
 
 Not sure how many mods there should be—probably less than I have ideas here. 15-20 seems like a nice range to allow evolution discovery without making it *too* easy to stumble on. Possibly less than that though, if there's only 3 slots per (basic) weapon—even if you don't repeat mods, and fill the weapon's slots each time, it'd take 5 to 7 runs with the same weapon to try them all. And with how many weapons we're looking at, that's a lot of runs.
 ...Assuming there's not a system to make discovering them easier, anyway (like VS's grimoire line highlighting—which obviously wouldn't work in this context, but.)
-Honestly—especially if the mods do different things for different weapons—something like 5 is probably enough.
+Honestly—especially if the mods do different things for different weapons—something like 5 is probably enough. As long as they're stackable, anyway.
+It does mean you *expect* to find an evolution—but that's maybe good?
 
 If nothing else, there should probably be a system that tells you if you've already tried a particular mod-weapon combo, so you don't have to just remember everything.
 

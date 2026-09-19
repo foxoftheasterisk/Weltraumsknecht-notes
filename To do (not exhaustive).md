@@ -19,7 +19,7 @@
 	* This also requires new information in the transition function
 		* Although, I think it *can* acquire it with what it gets? (through a chain of references)
     		* ehh, isn't ideal; let's just expand the Event
-* Fix enemy knockback and physics (will see how this is after readding a moving enemy)
+* Fix enemy knockback and physics (will see how this is after re-adding a moving enemy)
 * move Projectile Properties to transition?
     * Pros: less duplicate Phases, possibly easier to get phase event info
     * Cons: less intuitive(?), can't define properties for initial phase
@@ -30,5 +30,6 @@
 - make lance time based?
     - a second while NOT dashing drops the lance. have warning phase before full drop.
 - Prevent player-enemy collisions while enemy flinching (turn off layer?)
-- proper one-button dash (works even if not holding a movement key)
-- improve Caltrops range (toss forward)
+- proper one-button dash (works even if not holding a movement button)
+- make boomerang show crits
+- ... maybe we Do want enemy hitboxes to change by curve, might prevent some of
