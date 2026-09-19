@@ -1,3 +1,4 @@
 - add "coyote time" (allow jump a frame or two after running off platform)
 - Knives—random order?
-- 
+- weapon specific mods?
+    - or like—the *specifics* of how they work is individual to weapons? Like how the "sustain mod" can be duration or bounces or pierces; maybe there's a mod that makes crits harder, but increases non-crit damage, for example.
