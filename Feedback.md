@@ -1,0 +1,3 @@
+- add "coyote time" (allow jump a frame or two after running off platform)
+- Knives—random order?
+- 
