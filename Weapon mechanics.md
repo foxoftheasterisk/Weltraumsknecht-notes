@@ -9,6 +9,10 @@ After discovering such a room, you may take a weapon immediately or leave it and
 
 Alternatively, we could get weapon choice after the boss? I don't quite like that though.
 
+Weapon choice coming from the side quests, though—that I *do* like. (In addition to getting the "key".)
+(Not fully set on this, but I like the idea.)
+(... Side quests might have minibosses as well.)
+
 If all weapon slots are full, the player may replace one of them with a new weapon, but the old weapon is lost. The kick may not be replaced.
 
 ~~Weapon rooms in later areas have a chance to give evolved weapons. This chance is probably pretty small, though it could get significant in the late areas.~~

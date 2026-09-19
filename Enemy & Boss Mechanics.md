@@ -16,3 +16,4 @@ I mean, exploring still does give rewards, but they probably don't scale with th
 Bosses are about as you'd expect—they exist in certain places on the map, once you enter a boss room you're stuck until you beat the boss. 
 When defeated, a boss drops a heart container (full heal + increased health capacity) and a movement upgrade.
 
+Bosses should be relatively easy, as bosses go, given the amount of time invested before you can fight them. Especially, try not to have them need a lot of *learning*. (Some, though.)

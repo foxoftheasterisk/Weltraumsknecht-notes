@@ -49,6 +49,27 @@ At this point I think what we need is more projectile-blocking weapons, especial
 
 It's a lot easier to come up with alien weapons than Renaissance ones, but we probably want a fairly even mix, or maybe even more Renaissance than alien.
 
+... so as of now, weapon usefulness varies WILDLY. we probably want to balance that out some.
+- Caltrops are very underpowered (Although, this may prove less true when there are moving enemies.)
+    - probably need to throw forward a bit.
+- Sword is *really* good.
+    - give it some cooldown, i think?
+- Knives feel a bit too short range, I think? or *something* anyway
+    - maybe they shouldn't gravity?
+
+Starting to be unsure of kick as a base weapon.
+Like:
+- encourages aerial combat
+- may allow fancy challenge rooms
+Dislike:
+- kicking off enemies is probably a really easy and common sequence break
+    - (which also then rewards you for *not* killing enemies, which is not ideal)
+    - sequence breaking isn't *bad*, it's just this is probably too easy.
+- Doesn't feel very metroid-y?
+- kicking is very weak
+    - well, we can fix THAT...
+... okay yeah I should try it with better damage (and maybe an even bigger hurtbox) and see how it feels. If kick is actually a viable weapon that opens up a lot of space.
+
 Specific weapon ideas (checkbox indicate implemented):
 * [x] Lance: after initial stab out, only tip damages. Crits when dashing. (Evolve with dash length?)
 	* Tip only damage may be too restrictive. But maybe not, it works for Dragon Lancer (RL2).

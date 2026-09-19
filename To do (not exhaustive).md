@@ -2,7 +2,8 @@
     * player bouncing may want to happen immediately, though?
         * actually it seems to be working fine now without immediacy
         * i might want to expand the hurtbox a bit more though actually
-    - so qctually it looks like the Simulation might already have a sort of priority system? and i just need to use it
+        * (RL2's kick is actually pretty huge.)
+    - so actually it looks like the Simulation might already have a sort of priority system? and i just need to use it
 * PointTowardsMovementBehaviour
 	* Or maybe it should be called TurnWithMovementBehaviour?
 * Add continuous versions of ButtonPressed, ButtonReleased for weapon phasing
@@ -18,11 +19,16 @@
 	* This also requires new information in the transition function
 		* Although, I think it *can* acquire it with what it gets? (through a chain of references)
     		* ehh, isn't ideal; let's just expand the Event
-* Fix enemy knockback and physics
+* Fix enemy knockback and physics (will see how this is after readding a moving enemy)
 * move Projectile Properties to transition?
     * Pros: less duplicate Phases, possibly easier to get phase event info
     * Cons: less intuitive(?), can't define properties for initial phase
 * Hit-cooldown weapons
 * second enemy
-* make collision listener & BreakOnContactBehavior trigger *after* ProjectileXCollision events
-* abstract Projectile class parent of WeaponProjectile and EnemyProjectile (related to above)
+* let enemy attacks use phases?
+    * this is mainly useful for if they have projectiles that make projectiles (on contact, over time, whatever)
+- make lance time based?
+    - a second while NOT dashing drops the lance. have warning phase before full drop.
+- Prevent player-enemy collisions while enemy flinching (turn off layer?)
+- proper one-button dash (works even if not holding a movement key)
+- improve Caltrops range (toss forward)
