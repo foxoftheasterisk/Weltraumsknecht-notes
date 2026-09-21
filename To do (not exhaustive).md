@@ -32,6 +32,7 @@
 - make boomerang show crits
     -  Add target finding to HomingBehaviour
 - ... maybe we Do want enemy hitboxes to change by curve, might prevent some of the weirdness
+    - adds new different weirdness though...
 - random next phase
     - not sure if actually desirable, but worth testing at least
 - Add & display weapon descriptions
