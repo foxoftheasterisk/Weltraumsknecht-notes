@@ -27,9 +27,11 @@
 * second enemy
 * let enemy attacks use phases?
     * this is mainly useful for if they have projectiles that make projectiles (on contact, over time, whatever)
-- make lance time based?
-    - a second while NOT dashing drops the lance. have warning phase before full drop.
 - Prevent player-enemy collisions while enemy flinching (turn off layer?)
 - proper one-button dash (works even if not holding a movement button)
 - make boomerang show crits
-- ... maybe we Do want enemy hitboxes to change by curve, might prevent some of
+    -  Add target finding to HomingBehaviour
+- ... maybe we Do want enemy hitboxes to change by curve, might prevent some of the weirdness
+- random next phase
+    - not sure if actually desirable, but worth testing at least
+- Add & display weapon descriptions

@@ -19,6 +19,9 @@ Not sure how many mods there should be—probably less than I have ideas here. 1
 Honestly—especially if the mods do different things for different weapons—something like 5 is probably enough. As long as they're stackable, anyway.
 It does mean you *expect* to find an evolution—but that's maybe good?
 
+If evolutions take *pairs* instead of singles, though, then it's less expected—at least until you know what the evolution requirements *are*, so you can deliberately take them.
+Does mean you have less freedom of what mods to take if you want to evolve, though.
+
 If nothing else, there should probably be a system that tells you if you've already tried a particular mod-weapon combo, so you don't have to just remember everything.
 
 Ideally, each mod should trigger evolution for at least two weapons. Likely more.
