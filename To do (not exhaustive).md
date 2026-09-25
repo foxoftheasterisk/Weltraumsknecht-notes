@@ -39,5 +39,5 @@
 - random next phase
     - not sure if actually desirable, but worth testing at least
 - Add & display weapon descriptions
-- add composite collider to ttilemap? (May help with weird bounces)
+- add composite collider to tilemap? (May help with weird bounces)
 - fix dash (and move lock) drop
