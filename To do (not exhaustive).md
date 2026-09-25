@@ -27,6 +27,9 @@
     * Cons: less intuitive(?), can't define properties for initial phase
 * Hit-cooldown weapons
 * second enemy
+    * buzzy sprites remaining: hurt, die, and projectiles
+        * but hurt could be fast idle like worm's
+        * might also modify Spit to open at the seams?
 * let enemy attacks use phases?
     * this is mainly useful for if they have projectiles that make projectiles (on contact, over time, whatever). which they almost certainly will.
 - Prevent player-enemy collisions while enemy flinching (turn off layer?)
