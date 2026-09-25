@@ -79,7 +79,7 @@ Specific weapon ideas (checkbox indicate implemented):
 			* Cluster and final bombs both can be triggered (separately)
 			* Evo from sustain? Other-cooldown?
 	- [ ] Alt evo: mega bomb, big round explosion
-		* Unite with nova?
+		* ~~Unite with nova?~~
 - [ ] Shortbow: on ground, baseball slide (knocks enemies upward); can fire arrow upward and end slide at any point, critting with timing. In air, fires forward and cannot crit.
 	* (This is Slayin''s bow.)
 	* Crit may also add some piercing? (Not infinite like Slayin' though.)
@@ -120,6 +120,7 @@ Specific weapon ideas (checkbox indicate implemented):
 		* Alternatively, it could *not* count itself,  and be more powerful instead.
 - [x] Boomerang: shoots forward, crits on return
 	* Evolve: magic boomerang, bigger, faster, goes farther, more damage... pierces?
+	* I like how the boomerang feels now, but it's really not very setting-appropriate
 - [x] Glaive: performs melee combo (slash->stab). Stab crits.
 	- [ ] Evolve to Halberd: longer combo, can loop. (slash->stab->hook->butt?). All except slash crit.
 	- [ ] Alt evo: laser spear that fires forward on stab. Maybe also shoots from slash?
@@ -158,7 +159,7 @@ Specific weapon ideas (checkbox indicate implemented):
 	* Crits with charge time? Or maybe distance.
 		* If those end up too powerful, it could instead be a perfect timing thing.
 		* Or if they're too weak, all arrows could crit.
-- [ ] Rapier: extra short/no warmup, swipes forward; crits if another weapon was used hit in the last second (or so). Short cooldown also.
+- [ ] Rapier: extra short/no warmup, swipes forward; crits if another weapon ~~was used~~ ***hit*** in the last second (or so). Short cooldown also.
 	* (Based on RL2's rapier.)
 	* Can combo with kick.
 	* Maybe *just* short enough cooldown it can combo with itself? Maybe conditionally, like how the RL2 rapier is faster in the air.
@@ -180,8 +181,8 @@ Specific weapon ideas (checkbox indicate implemented):
 	* Close crit is kinda boring, but I don't have any better ideas.
 		* Besides, having one or two that take the boring option is probably good.
 - [ ] Flail: charges while spinning about, then hits with a critting projectile. No projectile if not charged.
-	* Bat + boomerang?
-		* Sounds more like blaster than boomerang actually
+	* Bat upgrade?
+    	* or this is base, since it's a little more setting-appropriate
 	* Free movement? (No facing.) Or, maybe partial.
 - [ ] Tesla coil:  do chain lightning, crit when chaining. Fairly short range (for both initial and chain). Long cooldown.
 	* Like, 8 hits or something.
@@ -191,7 +192,7 @@ Specific weapon ideas (checkbox indicate implemented):
 - [ ] Water splash: wide forward projectile, medium range. Outer edge crits.
 	* Feels related to throwing knife and air blast.
 	* Could charge (Probably also extends range?)
-	* (Partially based on RL2's katana. Maybe a little less finicky though. (But maybe not.))
+	* (Partially based on RL2's katana. Maybe a little less finicky though. (But maybe not!))
 - [ ] Ninja scroll: teleport upward, toss bomb downward
 	* Or leave bomb at source; these are similar but distinct. Down toss is more flexible, left bomb maybe faster.
 	* Can't go through walls, if you try, teleport just ends there.
@@ -233,13 +234,7 @@ Specific weapon ideas (checkbox indicate implemented):
 	* Moderate cooldown, time based.
 	* Maybe actually a dragon pistol 
 - [x] Missile: slow start, zooms forward, explodes
-	* Actual missile crits?
-		* Seems too easy.. or rather, like it would be hard to hit without a crit.
-	* Distance crit? (Or speed, but that's functionally the same)
-	* "Second, delayed crit explosion" works.
-		* Although it again seems like it would almost always crit
-    * actually thinking about what if it threw cluster type bombs that crit? Maybe throws them backwards, that seems like an interesting way for it to work
-        * diagonal back-up makes it less likely that the same target will be hit by both. I think I like it.
+	* I like the "toss back crit exploders" it's got going on now, it's pretty fun.
 - [ ] Tower shield: slow movement, large hurtbox, blocks all projectiles, crits after blocking projectile. Can hold for several seconds. Long time cooldown.
 	* Upgrade to energy shield, less or no movement penalty and curves around head/feet some.
 	* Seems very similar to vacuum and umbrella...
@@ -276,12 +271,13 @@ Specific weapon ideas (checkbox indicate implemented):
 - [ ] Bomb (metroid style): Place a projectile, which holds still until exploding in a small round pattern. Explosions also bounce player? Stock of 3 probably. Crit from short succession?
 	* Seems hard to use.
 	* Alternate crit: if an enemy directly touches the bomb (may also trigger it early)
+    	* enemy *or* projectile, I think
 	* Destroys projectiles? (Would make it more useful)
 		* Probably does not bounce player in this case, as that would make it bad for protection.
 	- [ ] Evo: EMP/lightning ball. Balls chain together (doing normal damage) and pulse instead of exploding when each would explode.
 		* (So if there's two bombs, when the first would explode, they both pulse instead, then when the second would explode both do.)
 		* Also pulse when ball contacted
-		* Unite with lightning rod?
+		* ~~Unite with lightning rod?~~
 		* Chain may also destroy projectiles?
 		* (This sounds really cool)
 - [ ] Needler: spray of needles, hold to keep spraying and crit? First shot is (basically) straight forward, later shots kick up. Needles disappear after moderate-short distance.
@@ -289,10 +285,11 @@ Specific weapon ideas (checkbox indicate implemented):
 		* Or stock? I kinda like stock. One hit per needle?
 	* May do less damage than typical weapons, not sure.
 		* Like probably 6 instead of 10
+		* full damage may be fine with it being hit stock actually
 - [ ] Organ gun (aka ribaldequin): 90° spread forward, edge ones crit. In air, fires down instead (with bounce.) Long time cooldown.
 	* Is that too much different in air...? Could be diagonal down instead. Or even stay forward.
 	* This is probably too similar to blunderbuss (esp. if diag down), but I like this one better. Could always be an evo (one or the other)
-		* Blunderbuss + musket = organ gun, probably
+		* ~~Blunderbuss + musket = organ gun, probably~~
 			* Which means longer range, plus more spread (and crits start where they always did)
 		* Idk actually, they're similar but have substantially different use cases...
 - [ ] Homing weapon
@@ -306,11 +303,11 @@ Specific weapon ideas (checkbox indicate implemented):
 	* Falling part crits, I expect.
 	* If it hits a wall instead, what happens? Nothing?
 - [ ] Net launcher: shoots a small projectile that opens (gets larger) and crits after a distance, upward angle with gravity
-- [ ] Firework/Rocket: time based, shoots upward (slight angle? Like 80°) and explodes into shrapnel (on contact or time probably), direct hits crit?
+- [ ] Firework/Rocket: time based (medium), shoots upward (slight angle? Like 80°) and explodes into shrapnel (on contact or time probably), direct hits crit?
 - [ ] Big Slow Orb Gun. Probably goes through walls too, idk.
 - [ ] Damage Field Maker: shoots a projectile (with whatever pattern, idk) that creates a DOT field where it hits. May do so on enemies, or only on walls.
 - [ ] Whip: pretty big hurtbox with a small critting sweet spot, thinking at an upward angle (30° or so)
-- [ ] Earth wall: blocks large projectiles. Crit while appearing? Usable only on ground. (Platforms?) Solid.
+- [ ] Earth wall: blocks large projectiles. Crit while appearing? Usable only on ground. Solid (can walk on)
 - [ ] Stone fist: Chonky melee strike. Destroys medium projectiles. Crits on ground. Air version is less chonky.
 - [ ] Cannon: set cannon, then can walk away while fuse counts down. (Half to one second—not too long.) Cannonball fires up at a low angle (20°?), no gravity, destroys medium projectiles, decent range. Goes through walls? Crit... muzzle flare? Moderate time cooldown (2-4s)
 	* Cannon itself does no damage

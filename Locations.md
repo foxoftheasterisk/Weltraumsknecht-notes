@@ -127,6 +127,12 @@ If there *are* minibosses, putting them with the "keys" makes sense
 
 There's also the concept, if we're leaning in to Fusion, of the stage itself being damaged by events not (directly) caused by you. (SA-X, that guard robot.) That could also be a "key", although I think we'd want to keep it to a relatively small area to prevent search frustration. Or have a map indicator (and something that prompts you to *check* the map), I guess.
 
+Ok so a big aspect of what makes Fusion the way it is, is that you're constantly breaking open walls and finding secret passages *as part of the plot.*
+So you don't so much have "Oh, a secret passage, time to get an upgrade!"
+Instead it's more like "Hmm, here's yet another secret passage, is this one an upgrade or does it lead to the objective?"
+feels much more exploratory in that way
+And yeah, I think I like that.
+
 There's also the concept of going through a (small part of) a later area to reach the next area, that could be fun. (Not sure if this involves nerfed versions of the enemies or not—might depend on how *much* later an area it is.)
 
 And then there's the metroidvania standby of doing something that ends up getting you stuck in a new area, until you find another way out / a new upgrade that lets you get back the way you came. We can play with that. (But not *too* much.)

@@ -8,7 +8,9 @@
 	* Or maybe it should be called TurnWithMovementBehaviour?
 * Add continuous versions of ButtonPressed, ButtonReleased for weapon phasing
     * (Rather, a ButtonState in the event—with states Up, Down and Blocked)
+    *  ... none of the current weapons actually need this anymore, but it's still likely to be relevant.
 * Start Phase event for transitions
+    * (Also not immediately relevant)
 * Make enemy invincibility per-projectile
 	* Add phase boolean to preserve hit record in transitions
 	* or just give brief projectile immunity at the start of a phase?
@@ -26,13 +28,12 @@
 * Hit-cooldown weapons
 * second enemy
 * let enemy attacks use phases?
-    * this is mainly useful for if they have projectiles that make projectiles (on contact, over time, whatever)
+    * this is mainly useful for if they have projectiles that make projectiles (on contact, over time, whatever). which they almost certainly will.
 - Prevent player-enemy collisions while enemy flinching (turn off layer?)
 - proper one-button dash (works even if not holding a movement button)
-- make boomerang show crits
-    -  Add target finding to HomingBehaviour
 - ... maybe we Do want enemy hitboxes to change by curve, might prevent some of the weirdness
     - adds new different weirdness though...
 - random next phase
     - not sure if actually desirable, but worth testing at least
 - Add & display weapon descriptions
+- add composite collider to ttilemap? (May help with weird bounces)
