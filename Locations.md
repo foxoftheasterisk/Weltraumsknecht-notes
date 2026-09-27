@@ -133,6 +133,10 @@ Instead it's more like "Hmm, here's yet another secret passage, is this one an u
 feels much more exploratory in that way
 And yeah, I think I like that.
 
+Also helps: you get a map, but then you go *off* the map. A lot.
+(Off-map and secret passages go together most of the time, but there are a few where it doesn't really? Both in the sense you have to break something to get through a marked area, and where the off-map area is obvious. (Though only example of that I'm thinking of is the upper part of AQA))
+for simplicity's sake though, probably just make the off-map and the secret passages go together.
+
 There's also the concept of going through a (small part of) a later area to reach the next area, that could be fun. (Not sure if this involves nerfed versions of the enemies or not—might depend on how *much* later an area it is.)
 
 And then there's the metroidvania standby of doing something that ends up getting you stuck in a new area, until you find another way out / a new upgrade that lets you get back the way you came. We can play with that. (But not *too* much.)
