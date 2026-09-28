@@ -11,6 +11,8 @@ Basic movement:
 
 Kick is kind of a gray area of being both a weapon and a movement thing.
 
+consider: Ground version of kick? (like a skid forward kind of thing probably)
+
 Potential movement unlocks:
 - Double jump (or more)
 - Wall jump

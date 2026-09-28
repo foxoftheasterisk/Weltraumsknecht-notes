@@ -41,3 +41,4 @@
 - Add & display weapon descriptions
 - add composite collider to tilemap? (May help with weird bounces)
 - fix dash (and move lock) drop
+- improve jump feel?
