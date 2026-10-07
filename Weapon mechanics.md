@@ -42,7 +42,7 @@ Not sure how weapons should evolve once their requirements are met:
 		* Although this gets better if they also perform other functions, such as being a merchant.
 		* Also, there can be a notification. (Altho I kinda think that breaks the mystique...)
 * A certain number of kills/hits with the weapon after fulfilling the requirement?
-    * I kinda like that actually. Like it's absorbing power from the mod (or other weapon). And it's a bit more of a pleasant surprise.
+    * I kinda like that actually. Like it's absorbing power from the mod (or other weapon). And it's a bit more of a pleasant surprise/suspense.
 * Some other catalyst?
 	* What?
 * Unique by weapon?

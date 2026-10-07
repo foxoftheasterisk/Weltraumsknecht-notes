@@ -152,6 +152,9 @@ Specific weapon ideas (checkbox indicate implemented):
 	- [ ] Jump jets: Bigger hurtbox (mostly downward), higher bounce. Still doesn't bounce unless hitting something.
 		* Probably more damage than the screw attack, since it seems inferior otherwise.
 		* Also damage enemies during bounce?
+    * should kick have a ground variant? (Probably like the Ecclesia down-jump. But maybe more like an uppercut?)
+        * if it does, *all* air kicks could crit. Not sure if they should, but they could.
+            * that would make the sword crit kinda suck, unless kick deals lower damage.
 - [ ] Umbrella: A long warmup weapon; stabs straight forward (ground) or up (air), then pops open. While open, blocks (small? medium?) projectiles and crits, and slows fall if in air. Can hold open indefinitely. 
 	* Possibly only crits if it's already blocked a projectile? That might be weak, though.
 	* Probably a hit based weapon. (That makes always critting when open more reasonable, too.)
@@ -159,7 +162,7 @@ Specific weapon ideas (checkbox indicate implemented):
 	* Crits with charge time? Or maybe distance.
 		* If those end up too powerful, it could instead be a perfect timing thing.
 		* Or if they're too weak, all arrows could crit.
-- [ ] Rapier: extra short/no warmup, swipes forward; crits if another weapon ~~was used~~ ***hit*** in the last second (or so). Short cooldown also.
+- [ ] Rapier: extra short/no warmup, swipes forward; crits if a weapon ~~was used~~ ***hit*** in the last second (or so). Short cooldown also.
 	* (Based on RL2's rapier.)
 	* Can combo with kick.
 	* Maybe *just* short enough cooldown it can combo with itself? Maybe conditionally, like how the RL2 rapier is faster in the air.
@@ -230,7 +233,7 @@ Specific weapon ideas (checkbox indicate implemented):
 		* Not sure the ground version shouldn't also have recoil... it could even do blast upward..?
 	* May need to do less damage than most weapons, since the intended usage is a full blast.
 		* Which does make the edge crits kinda weird...
-			* Well... not *that* weird.
+			* Well... not *that* weird. Just rewards getting the edges and not just the center.
 	* Moderate cooldown, time based.
 	* Maybe actually a dragon pistol 
 - [x] Missile: slow start, zooms forward, explodes
@@ -330,7 +333,7 @@ Specific weapon ideas (checkbox indicate implemented):
 	* Honestly this is just because of the glitch Daggers were having
 - [ ] Cross laser?: moderate warmup, suspends player,  big laser X with player in center, after a moment pulses larger & crits. 
 	* Dash cancelable ofc.
-	* "Larger" = longer, wider, both?
+	* "Larger" = longer, wider, both? Or a different direction?
 - [ ] ?: ranged weapon with a projectile that splits on button press. Crit: center (original trajectory) after split?
 	* Feels cooler if it's an arcing projectile.
 	* Maybe like a shell that opens up (and drops half-shells)?

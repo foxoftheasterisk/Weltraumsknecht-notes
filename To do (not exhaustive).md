@@ -4,6 +4,7 @@
         * i might want to expand the hurtbox a bit more though actually
         * (RL2's kick is actually pretty huge.)
     - so actually it looks like the Simulation might already have a sort of priority system? and i just need to use it
+    - also should have event listening!
 * PointTowardsMovementBehaviour
 	* Or maybe it should be called TurnWithMovementBehaviour?
 * Add continuous versions of ButtonPressed, ButtonReleased for weapon phasing
@@ -32,13 +33,19 @@
         * might also modify Spit to open at the seams?
 * let enemy attacks use phases?
     * this is mainly useful for if they have projectiles that make projectiles (on contact, over time, whatever). which they almost certainly will.
+    * Well... it also lets us implement movement phases for both simultaneously 
 - Prevent player-enemy collisions while enemy flinching (turn off layer?)
 - proper one-button dash (works even if not holding a movement button)
 - ... maybe we Do want enemy hitboxes to change by curve, might prevent some of the weirdness
     - adds new different weirdness though...
+    - Alternatively, don't have the hurtbox change at all? That's also weirdness.
+    - Weirdness is probably unavoidable as long as we don't have in-between animation frames.
 - random next phase
     - not sure if actually desirable, but worth testing at least
-- Add & display weapon descriptions
-- add composite collider to tilemap? (May help with weird bounces)
 - fix dash (and move lock) drop
 - improve jump feel?
+- movement phases/attacks
+- ground kick
+- FlyingAI
+    - target position, and speed. Possibly acceleration?
+        - i think that's all we need

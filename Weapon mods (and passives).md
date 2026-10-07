@@ -28,7 +28,7 @@ Ideally, each mod should trigger evolution for at least two weapons. Likely more
 
 Mod effects: 
 * Regular damage (adds a flat amount to regular hits and crits)
-* Crit damage (double or more the amount regular damage adds, but none to regular hits)
+* Crit damage (double or more the amount regular damage adds, but no increase to regular hits)
 * Sustain? (whichever is most applicable of duration, pierces, bounces, etc)
 	* Still some weapons none would apply—e.g. lance
 		* Altho lance could hold its *crit* for longer...
