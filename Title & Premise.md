@@ -2,7 +2,7 @@ Weltraumsknecht = Space Knight (or maybe Space's Knight?)
 Based on the landsknecht
 
 Probably a working title
-Okay yeah I don't think I want the landsknecht connotation anymore so definitely a working title.
+~~Okay yeah I don't think I want the landsknecht connotation anymore so definitely a working title.~~
 
 General idea is a roguelike metroidvania—in the vein of Rogue Legacy 2, except without the "Legacy"—in which you obtain and evolve weapons that are very different from each other.
 
@@ -23,3 +23,9 @@ On hearing the premise, everyone thinks of Dead Cells, which is valid, but now t
 Rogue Legacy 2 is a much closer comparison. (Though I don't want to follow it *too* closely.)
 
 Also, the weapon evolution system is inspired by Vampire Survivors's. (Though it's diverged, but it still carries that core of discovering evolutions by combining weapons with "passives"(now mods).)
+
+...I dunno. The more I develop this, the less I feel that the weapon mods and evolutions are actually... important to the concept?
+Weapon variety is, 1000%, but improvement and evolution of them? I'm kinda meh on it.
+TBH the main thing motivating those for me right now is that I want there to be hidden pickups that aren't health. But if I figure out an alternative to that, I might just drop the weapon evolution concept entirely.
+... They could be more like relics, maybe?
+(Kinda going full circle, huh?)

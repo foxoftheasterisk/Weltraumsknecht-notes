@@ -49,3 +49,11 @@
 - FlyingAI
     - target position, and speed. Possibly acceleration?
         - i think that's all we need
+
+Desired phase effects: 
+- create object (done)
+- move actor
+- trigger and/or time animation
+- trigger other phases?
+- combinations of these
+    - but not all every time
