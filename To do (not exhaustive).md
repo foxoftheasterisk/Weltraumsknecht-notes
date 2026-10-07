@@ -33,7 +33,7 @@
         * might also modify Spit to open at the seams?
 * let enemy attacks use phases?
     * this is mainly useful for if they have projectiles that make projectiles (on contact, over time, whatever). which they almost certainly will.
-    * Well... it also lets us implement movement phases for both simultaneously 
+    * Well... it also lets us implement phase effects for both simultaneously 
 - Prevent player-enemy collisions while enemy flinching (turn off layer?)
 - proper one-button dash (works even if not holding a movement button)
 - ... maybe we Do want enemy hitboxes to change by curve, might prevent some of the weirdness
@@ -46,14 +46,15 @@
 - improve jump feel?
 - movement phases/attacks
 - ground kick
-- FlyingAI
-    - target position, and speed. Possibly acceleration?
-        - i think that's all we need
+- Enemy detection radius
+- bake time into transitions? (Instead of having time range conditions)
 
 Desired phase effects: 
 - create object (done)
+    - parameters for projectile properties. e.g. player position at attack start (instead of at projectile creation), speed from Longbow hold time
 - move actor
 - trigger and/or time animation
 - trigger other phases?
 - combinations of these
     - but not all every time
+    - and also multiple of the same might be good?
