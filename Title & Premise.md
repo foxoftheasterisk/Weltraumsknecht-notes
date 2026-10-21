@@ -29,3 +29,5 @@ Weapon variety is, 1000%, but improvement and evolution of them? I'm kinda meh o
 TBH the main thing motivating those for me right now is that I want there to be hidden pickups that aren't health. But if I figure out an alternative to that, I might just drop the weapon evolution concept entirely.
 ... They could be more like relics, maybe?
 (Kinda going full circle, huh?)
+
+I don't know, I still *like* the weapon evolution concept, I just don't know that it's as integral as it felt at first.

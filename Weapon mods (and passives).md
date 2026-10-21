@@ -1,6 +1,6 @@
 ~~Mods I think are kind of like Heroes of Hammerwatch trinkets: reasonably common and have several different sources.~~
 Actually, mods are like metroid missile tanks.
-Not as common, obviously, since you can hold only a few per weapon (thinking 3 for basic, 5 and 7 for the higher rarities, but that's definitely something to tweak in playtesting)
+Not *as* common, obviously, since you can hold only a few per weapon (thinking 3 for basic, 5 ~~and 7~~ for the higher rarities, but that's definitely something to tweak in playtesting)
 
 ~~So you can get a single mod from a chest type drop, or can get a choice of a few at a merchant.~~
 
@@ -11,12 +11,12 @@ Probably all mods are equal rarity, though that's not for sure.
 ~~There maybe can also be passives that don't apply to a specific weapon.~~
 ~~I kind of think that might be too many things, but maybe if the passives are rare it would work?~~
 
-Alternatively, there can be some mods that have effects on the player rather than the weapon.
+Alternatively, there can be some mods that have effects on the *player* rather than the *weapon*.
 ... Actually, yeah, I like that, because then you have to choose between loading up weapons with offense or with passive helpful stuff.
 
 Not sure how many mods there should be—probably less than I have ideas here. 15-20 seems like a nice range to allow evolution discovery without making it *too* easy to stumble on. Possibly less than that though, if there's only 3 slots per (basic) weapon—even if you don't repeat mods, and fill the weapon's slots each time, it'd take 5 to 7 runs with the same weapon to try them all. And with how many weapons we're looking at, that's a lot of runs.
 ...Assuming there's not a system to make discovering them easier, anyway (like VS's grimoire line highlighting—which obviously wouldn't work in this context, but.)
-Honestly—especially if the mods do different things for different weapons—something like 5 is probably enough. As long as they're stackable, anyway.
+Honestly—especially if the mods do different things for different weapons—something like 5 is probably enough. As long as duplicates stack, anyway.
 It does mean you *expect* to find an evolution—but that's maybe good?
 
 If evolutions take *pairs* instead of singles, though, then it's less expected—at least until you know what the evolution requirements *are*, so you can deliberately take them.

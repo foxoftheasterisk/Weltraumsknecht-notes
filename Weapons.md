@@ -342,6 +342,8 @@ Specific weapon ideas (checkbox indicate implemented):
 	* Ok now I'm imagining like a laser drone that when triggered, STOPS, fires a laser, then splits in halves that fly backwards
 		* Maybe not laser? Anyway sounds cool
 - [ ] Regenerative shield: some variant of large-but-close pattern, blocks projectiles (up to med? large?). Blocked projectiles count as hits for cooldowns. (Has hit cooldown.)
+- [ ] Razor leaf: wide (up and down) projectile or set of projectiles that crits with distance
+    - This might be OP?
 
 no pattern ideas:
 	• something something chaotic weapon
