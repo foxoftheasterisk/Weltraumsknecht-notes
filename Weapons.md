@@ -238,6 +238,7 @@ Specific weapon ideas (checkbox indicate implemented):
 	* Maybe actually a dragon pistol 
 - [x] Missile: slow start, zooms forward, explodes
 	* I like the "toss back crit exploders" it's got going on now, it's pretty fun.
+	* although given this is an alien one, I wonder if it should be easier to crit with...?
 - [ ] Tower shield: slow movement, large hurtbox, blocks all projectiles, crits after blocking projectile. Can hold for several seconds. Long time cooldown.
 	* Upgrade to energy shield, less or no movement penalty and curves around head/feet some.
 	* Seems very similar to vacuum and umbrella...

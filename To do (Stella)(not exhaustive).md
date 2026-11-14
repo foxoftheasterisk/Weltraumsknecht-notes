@@ -1,9 +1,6 @@
 * ~~Make a proper CollisionQueue (with priority)~~
     - ~~so actually it looks like the Simulation might already have a sort of priority system? and i just need to use it~~
     - it seems that as long as the hurtboxes are well defined this isn't needed?
-        - ~~We're getting null pointers due to wrong order of handling. It's not causing any major problems (yet) but should still be fixed.~~
-            - ~~At least I think that's why...~~
-            - ~~actually this might have been from use of BreakOnContactBehavior. Should text if it's still present~~.
 - add event listening to Simulation
 * PointTowardsMovementBehaviour
 	* Or maybe it should be called TurnWithMovementBehaviour?
@@ -27,13 +24,16 @@
         - or. We can make the *player* be a trigger. Possibly we still need a collider for the environment but it's much easier and more practical to double up on the player than *every enemy.*
 - proper one-button dash (works even if not holding a movement button)
 - fix dash (and move lock) drop
-- improve jump feel?
+- improve jump physics re: walls
+- improve slope physics
 - ground kick
 - Enemy detection radius
 - bake time into transitions? (Instead of having time range conditions)
     - or in addition, since sometimes we might want to have several phases' times linked together
     - This can be just the minimum time, max time is much rarer
 - Since trigger consumption is now an option, end last phase shouldn't do it by default.
+- end attacks on room change (except phases performed by player)
 
-Big project:
-- **Rooms!**
+Main(?):
+- Room memory
+- breakables
